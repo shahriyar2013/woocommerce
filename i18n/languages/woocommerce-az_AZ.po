@@ -23,43 +23,43 @@ msgstr ""
 #: assets/js/admin/editor_plugin_lang.php:5
 #@ woocommerce
 msgid "Insert Shortcode"
-msgstr "Kısakod Ekle"
+msgstr "Kod Əlavə Et"
 
 #: assets/js/admin/editor_plugin_lang.php:6
 #@ woocommerce
 msgid "Product price/cart button"
-msgstr "Ürün fiyat/sepet düğmesi"
+msgstr "Məhsul qiyməti/səbət düyməsi"
 
 #: assets/js/admin/editor_plugin_lang.php:7
 #@ woocommerce
 msgid "Product by SKU/ID"
-msgstr "SKU/ID kodu ile Ürün"
+msgstr "SKU/ID kodu ilə Məhsul"
 
 #: assets/js/admin/editor_plugin_lang.php:8
 #@ woocommerce
 msgid "Products by SKU/ID"
-msgstr "SKU/ID kodu ile Ürünler"
+msgstr "SKU/ID kodu ilə Məhsullar"
 
 #: admin/post-types/writepanels/writepanel-coupon_data.php:116
 #: assets/js/admin/editor_plugin_lang.php:9
 #@ woocommerce
 msgid "Product categories"
-msgstr "Ürün Kategorileri"
+msgstr "Məhsul Kateqoriyaları"
 
 #: assets/js/admin/editor_plugin_lang.php:10
 #@ woocommerce
 msgid "Products by category slug"
-msgstr "kategori-kısaismi ile Ürünler"
+msgstr "Kateqoriya qısaltması ilə məhsullar"
 
 #: assets/js/admin/editor_plugin_lang.php:11
 #@ woocommerce
 msgid "Recent products"
-msgstr "En son Ürünler"
+msgstr "Ən son məhsullar"
 
 #: assets/js/admin/editor_plugin_lang.php:12
 #@ woocommerce
 msgid "Featured products"
-msgstr "Öneçıkan Ürünler"
+msgstr "Sevilən məhsullar"
 
 #: assets/js/admin/editor_plugin_lang.php:13
 #@ woocommerce
@@ -71,7 +71,7 @@ msgstr "Mağaza Mesajları"
 #: assets/js/admin/editor_plugin_lang.php:14
 #@ woocommerce
 msgid "Pages"
-msgstr "Sayfalar"
+msgstr "Səhifələr"
 
 #: admin/woocommerce-admin-install.php:195
 #: admin/woocommerce-admin-status.php:277
@@ -79,7 +79,7 @@ msgstr "Sayfalar"
 #: classes/widgets/class-wc-widget-cart.php:61
 #@ woocommerce
 msgid "Cart"
-msgstr "Sepet"
+msgstr "Səbət"
 
 #: admin/settings/settings-init.php:114
 #: admin/woocommerce-admin-install.php:198
@@ -87,12 +87,12 @@ msgstr "Sepet"
 #: assets/js/admin/editor_plugin_lang.php:16
 #@ woocommerce
 msgid "Checkout"
-msgstr "Kasa"
+msgstr "Sifarişi tamamla"
 
 #: assets/js/admin/editor_plugin_lang.php:17
 #@ woocommerce
 msgid "Order tracking"
-msgstr "Sipariş Takip"
+msgstr "Sifariş Təqibi"
 
 #: admin/woocommerce-admin-install.php:201
 #: admin/woocommerce-admin-status.php:293
@@ -106,14 +106,14 @@ msgstr "Hesabım"
 #: assets/js/admin/editor_plugin_lang.php:19
 #@ woocommerce
 msgid "Edit Address"
-msgstr "Adres Düzenle"
+msgstr "Ünvan Dəyişdir"
 
 #: admin/woocommerce-admin-install.php:213
 #: admin/woocommerce-admin-status.php:305
 #: assets/js/admin/editor_plugin_lang.php:20
 #@ woocommerce
 msgid "Change Password"
-msgstr "Şifre Değiştir"
+msgstr "Şifrə Dəyişdir"
 
 #: admin/woocommerce-admin-install.php:210
 #: admin/woocommerce-admin-status.php:301
@@ -122,7 +122,7 @@ msgstr "Şifre Değiştir"
 #: woocommerce.php:1032
 #@ woocommerce
 msgid "View Order"
-msgstr "Sipariş Görüntüle"
+msgstr "Sifarişi Göstər"
 
 #: admin/woocommerce-admin-status.php:285
 #: assets/js/admin/editor_plugin_lang.php:22
@@ -130,12 +130,12 @@ msgstr "Sipariş Görüntüle"
 #: templates/myaccount/my-orders.php:71
 #@ woocommerce
 msgid "Pay"
-msgstr "Ödeme"
+msgstr "Ödəmə"
 
 #: assets/js/admin/editor_plugin_lang.php:23
 #@ woocommerce
 msgid "Thankyou"
-msgstr "Teşekkürler"
+msgstr "Təşəkkürlər"
 
 #: classes/abstracts/abstract-wc-email.php:421
 #: classes/emails/class-wc-email-customer-completed-order.php:135
@@ -150,7 +150,7 @@ msgstr "Teşekkürler"
 #: classes/shipping/international-delivery/class-wc-shipping-international-delivery.php:52
 #@ woocommerce
 msgid "Enable/Disable"
-msgstr "Etkin/Devredışı"
+msgstr "Aktiv/Deaktiv"
 
 #: classes/abstracts/abstract-wc-email.php:423
 #: classes/emails/class-wc-email-customer-completed-order.php:137
@@ -158,13 +158,13 @@ msgstr "Etkin/Devredışı"
 #: classes/emails/class-wc-email-new-order.php:117
 #@ woocommerce
 msgid "Enable this email notification"
-msgstr "Bu email bilgilendirmesini Etkinleştir"
+msgstr "Bu email haqqında bildirişi aktiv et"
 
 #: classes/abstracts/abstract-wc-email.php:427
 #: classes/emails/class-wc-email-customer-invoice.php:144
 #@ woocommerce
 msgid "Email subject"
-msgstr "Email Konusu"
+msgstr "Emailin mövzusu"
 
 #: classes/abstracts/abstract-wc-email.php:429
 #: classes/abstracts/abstract-wc-email.php:436
@@ -185,7 +185,7 @@ msgstr "Varsayılan <code>%s</code>"
 #: classes/emails/class-wc-email-customer-invoice.php:151
 #@ woocommerce
 msgid "Email heading"
-msgstr "Email Başlık"
+msgstr "Email Başlığı"
 
 #: classes/abstracts/abstract-wc-email.php:441
 #: classes/emails/class-wc-email-customer-completed-order.php:169
@@ -193,7 +193,7 @@ msgstr "Email Başlık"
 #: classes/emails/class-wc-email-new-order.php:142
 #@ woocommerce
 msgid "Email type"
-msgstr "Email Türü"
+msgstr "Email Növü"
 
 #: classes/abstracts/abstract-wc-email.php:443
 #: classes/emails/class-wc-email-customer-completed-order.php:171
@@ -201,7 +201,7 @@ msgstr "Email Türü"
 #: classes/emails/class-wc-email-new-order.php:144
 #@ woocommerce
 msgid "Choose which format of email to send."
-msgstr "Göndermek istediğiniz Email formatını belirleyin"
+msgstr "Göndərmək istədiyiniz Email formatını müəyyən edin"
 
 #: classes/abstracts/abstract-wc-email.php:447
 #: classes/emails/class-wc-email-customer-completed-order.php:175
@@ -209,7 +209,7 @@ msgstr "Göndermek istediğiniz Email formatını belirleyin"
 #: classes/emails/class-wc-email-new-order.php:148
 #@ woocommerce
 msgid "Plain text"
-msgstr "Düz Metin"
+msgstr "Düz Mətn"
 
 #: classes/abstracts/abstract-wc-email.php:448
 #: classes/emails/class-wc-email-customer-completed-order.php:176
@@ -225,23 +225,23 @@ msgstr "HTML"
 #: classes/emails/class-wc-email-new-order.php:150
 #@ woocommerce
 msgid "Multipart"
-msgstr "Çok-parçalı"
+msgstr "Çox-hissəli"
 
 #: classes/abstracts/abstract-wc-email.php:485
 #: classes/abstracts/abstract-wc-email.php:506
 #@ woocommerce
 msgid "Could not write to template file."
-msgstr "Şablon dosyasına Yazdırılamıyor."
+msgstr "Şablon faylı yazılmadı."
 
 #: classes/abstracts/abstract-wc-email.php:533
 #@ woocommerce
 msgid "Template file copied to theme."
-msgstr "Şablon dosyası Temaya Kopyalandı."
+msgstr "Şablon faylı temaya kopyalandı."
 
 #: classes/abstracts/abstract-wc-email.php:542
 #@ woocommerce
 msgid "Template file deleted from theme."
-msgstr "Şablon dosyası Temadan Silindi."
+msgstr "Şablon faylı temadan silindi."
 
 #: admin/includes/welcome.php:146
 #: admin/woocommerce-admin-content.php:41
@@ -262,7 +262,7 @@ msgstr "HTML Şablon"
 #: classes/abstracts/abstract-wc-email.php:563
 #@ woocommerce
 msgid "Plain text template"
-msgstr "Düz Metin Şablon"
+msgstr "Düz Mətn Şablon"
 
 #: classes/abstracts/abstract-wc-email.php:582
 #@ woocommerce
@@ -273,38 +273,38 @@ msgstr "Şablonu Sil"
 #, php-format
 #@ woocommerce
 msgid "This template has been overridden by your theme and can be found in: <code>%s</code>."
-msgstr "Bu şablon kullandığınız tema tarafından değiştiriliyor: <code>%s</code>"
+msgstr "Bu şablon istifadə etdiyiniz tema tərəfindən dəyişdirilir: <code>%s</code>"
 
 #: classes/abstracts/abstract-wc-email.php:600
 #@ woocommerce
 msgid "Copy file to theme"
-msgstr "Şablonu Temaya Kopyala"
+msgstr "Şablonu temaya kopyala"
 
 #: classes/abstracts/abstract-wc-email.php:603
 #, php-format
 #@ woocommerce
 msgid "To override and edit this email template copy <code>%s</code> to your theme folder: <code>%s</code>."
-msgstr "Bu şablonu düzenlemek için <code>%s</code> dosyasını temanın <code>%s</code> klasörüne Kopyala."
+msgstr "Bu şablonu dəyişdirmək üçün <code>%s</code> faylını temanın <code>%s</code> papkasına kopyala."
 
 #: classes/abstracts/abstract-wc-email.php:614
 #@ woocommerce
 msgid "File was not found."
-msgstr "Dosya Bulunamadı."
+msgstr "Fayl tapılmadı."
 
 #: classes/abstracts/abstract-wc-email.php:639
 #@ woocommerce
 msgid "View template"
-msgstr "Şablona Gözat"
+msgstr "Şablonu Göstər"
 
 #: classes/abstracts/abstract-wc-email.php:640
 #@ woocommerce
 msgid "Hide template"
-msgstr "Şablonu Gizle"
+msgstr "Şablonu Gizlət"
 
 #: classes/abstracts/abstract-wc-email.php:651
 #@ woocommerce
 msgid "Are you sure you want to delete this template file?"
-msgstr "Bu şablonu silmek istediğinizden emin misiniz?"
+msgstr "Bu şablonu silmək istədiyinizdən əminsinizmi?"
 
 #: admin/post-types/product.php:262
 #: admin/post-types/product.php:641
@@ -315,31 +315,31 @@ msgstr "Bu şablonu silmek istediğinizden emin misiniz?"
 #: classes/abstracts/abstract-wc-product.php:569
 #@ woocommerce
 msgid "In stock"
-msgstr "Stokta"
+msgstr "Anbarda"
 
 #: classes/abstracts/abstract-wc-product.php:550
 #, php-format
 #@ woocommerce
 msgid "Only %s left in stock"
-msgstr "Sadece %s Adet kaldı"
+msgstr "Sadəcə %s Ədəd qaldı"
 
 #: classes/abstracts/abstract-wc-product.php:553
 #, php-format
 #@ woocommerce
 msgid "%s in stock"
-msgstr "%s stokta"
+msgstr "%s anbarda"
 
 #: classes/abstracts/abstract-wc-product.php:560
 #@ woocommerce
 msgid "(backorders allowed)"
-msgstr "(önsiparişe açık)"
+msgstr "(əvvəlcədən sifariş üçün açıq)"
 
 #: classes/abstracts/abstract-wc-product.php:566
 #: classes/abstracts/abstract-wc-product.php:579
 #: templates/cart/cart.php:76
 #@ woocommerce
 msgid "Available on backorder"
-msgstr "Önsiparişe Uygun"
+msgstr "Əvvəlcədən sifarişə Uyğun"
 
 #: admin/post-types/product.php:264
 #: admin/post-types/product.php:642
@@ -351,7 +351,7 @@ msgstr "Önsiparişe Uygun"
 #: classes/abstracts/abstract-wc-product.php:586
 #@ woocommerce
 msgid "Out of stock"
-msgstr "Stokta Yok"
+msgstr "Anbarda bitdi"
 
 #: classes/abstracts/abstract-wc-product.php:849
 #: classes/abstracts/abstract-wc-product.php:855
@@ -362,20 +362,20 @@ msgstr "Stokta Yok"
 #: classes/class-wc-product-variation.php:246
 #@ woocommerce
 msgid "Free!"
-msgstr "Ücretsiz!"
+msgstr "Pulsuz!"
 
 #: classes/abstracts/abstract-wc-product.php:873
 #@ woocommerce
 msgctxt "min_price"
 msgid "From:"
-msgstr "En Düşük:"
+msgstr "Ən aşağı:"
 
 #: classes/abstracts/abstract-wc-product.php:965
 #: templates/single-product-reviews.php:43
 #, php-format
 #@ woocommerce
 msgid "Rated %s out of 5"
-msgstr "5 üzerinden %s değerlendirilmiş"
+msgstr "5 ulduzdan %s ilə qiymətləndirildi"
 
 #: admin/woocommerce-admin-dashboard.php:279
 #: classes/abstracts/abstract-wc-product.php:967
@@ -383,32 +383,32 @@ msgstr "5 üzerinden %s değerlendirilmiş"
 #: templates/single-product-reviews.php:43
 #@ woocommerce
 msgid "out of 5"
-msgstr "5 üzerinden"
+msgstr "5 ulduzdan"
 
 #: classes/class-wc-coupon.php:447
 #, php-format
 #@ woocommerce
 msgid "Sorry, it seems the coupon \"%s\" is invalid - it has now been removed from your order."
-msgstr "Özür dileriz ancak girdiğiniz Kupon Kodu  \"%s\\ GEÇERSİZ - o nedenle sipariş talebinizden kupon işlemi çıkarılmıştır."
+msgstr "Üzr istəyirik ancaq girdiyiniz Kupon Kodu  \"%s\\ etibarsızdır - bu səbəblə sifariş tələbinizdən kupon çıxarılmışdır."
 
 #: classes/class-wc-coupon.php:450
 #, php-format
 #@ woocommerce
 msgid "Sorry, it seems the coupon \"%s\" is not yours - it has now been removed from your order."
-msgstr "Üzgünüz, ancak kullanıdığınız \"%s\" Kupon Kodu size ait görünmüyor! Siparişinizden ilgili kupon çıkarılmıştır."
+msgstr "Bağışlayın, ancaq istifadə etdiyiniz \"%s\" Kupon Kodu sizə aid deyil! Sifarişinizdən bu kupon çıxarılmışdır."
 
 #: classes/class-wc-cart.php:464
 #, php-format
 #@ woocommerce
 msgid "Sorry, we do not have enough \"%s\" in stock to fulfill your order (%s in stock). Please edit your cart and try again. We apologise for any inconvenience caused."
-msgstr "Üzgünüz, depomuzda siparişinizi karşılayacak sayıda \"%s\" yok; (stok sayısı: %s). Lütfen sepetinizi düzenleyerek yeniden deneyiniz. Oluşan bu rahatsızlık için özür dileriz."
+msgstr "Bağışlayın, depomuzda sifarişinizə uyğun sayda \"%s\" yoxdur; (anbar sayı: %s). Xahiş edirik səbətinizə düzəliş edərək sifarişi yenidən göndərin. Bu narahatlıq səbəbilə sizdən üzr istəyirik."
 
 #: classes/class-wc-cart.php:483
 #: classes/class-wc-cart.php:492
 #, php-format
 #@ woocommerce
 msgid "Sorry, we do not have enough \"%s\" in stock to fulfil your order (%s in stock). Please edit your cart and try again. We apologise for any inconvenience caused."
-msgstr "Üzgünüz, stoklarımızda \"%s\" siparişinizi karşılayacak kadar ürün bulunmamaktadır (%s stokta). Lütfen sepetinizi değiştirerek yeniden deneyiniz. Oluşan bu aksaklık için tekrar özür dileriz."
+msgstr "Bağışlayın, depomuzda sifarişinizə uyğun sayda \"%s\" yoxdur; (anbar sayı: %s). Xahiş edirik səbətinizə düzəliş edərək sifarişi yenidən göndərin. Bu narahatlıq səbəbilə sizdən təkrar üzr istəyirik."
 
 #: classes/class-wc-cart.php:527
 #, php-format
@@ -420,25 +420,25 @@ msgstr ""
 #, php-format
 #@ woocommerce
 msgid "Sorry, \"%s\" is not in stock. Please edit your cart and try again. We apologise for any inconvenience caused."
-msgstr "Üzgünüz, stoklarımızda \"%s\" bulunmamaktadır. Lütfen sepetinizi değiştirerek yeniden deneyiniz. Oluşan bu aksaklık için tekrar özür dileriz."
+msgstr "Bağışlayın, depomuzda hal hazırda \"%s\" yoxdur. Xahiş edirik səbətinizə düzəliş edərək sifarişi yenidən göndərin. Bu narahatlıq səbəbilə sizdən üzr istəyirik."
 
 #: classes/class-wc-cart.php:818
 #, php-format
 #@ woocommerce
 msgid "Sorry, &quot;%s&quot; cannot be purchased."
-msgstr "Üzgüneüz, &quot;%s&quot; satışta değil."
+msgstr "Bağışlayın, &quot;%s&quot; satışda deyil."
 
 #: classes/class-wc-cart.php:825
 #, php-format
 #@ woocommerce
 msgid "You cannot add &quot;%s&quot; to the cart because the product is out of stock."
-msgstr "Ürün stoklarımızda kalmadığından, sepetinize &quot;%s&quot; ekleyemezsiniz."
+msgstr "Məhsul depoda bitdiyindən, səbətinizə &quot;%s&quot; əlavə edə bilməzsiniz."
 
 #: classes/class-wc-cart.php:830
 #, php-format
 #@ woocommerce
 msgid "You cannot add that amount of &quot;%s&quot; to the cart because there is not enough stock (%s remaining)."
-msgstr "Stoklarda yeterli miktarda kalmadığından (stokta: %s); sepetinize bu kadar &quot;%s&quot; ekleyemezsiniz."
+msgstr "Depomuzda lazımlı miqdarda qalmadığından (stokta: %s); səbətinizə bu qədər &quot;%s&quot; əlavə edə bilməzsiniz."
 
 #: classes/class-wc-cart.php:842
 #: classes/class-wc-cart.php:856
@@ -448,19 +448,19 @@ msgstr "Stoklarda yeterli miktarda kalmadığından (stokta: %s); sepetinize bu 
 #: woocommerce.php:1176
 #@ woocommerce
 msgid "View Cart &rarr;"
-msgstr "Sepete Git &rarr;"
+msgstr "Səbəti Göstər &rarr;"
 
 #: classes/class-wc-cart.php:842
 #@ woocommerce
 msgid "You already have this item in your cart."
-msgstr "Bu ürün zaten sepetinizde var."
+msgstr "Bu məhsul artıq səbətinizdə var."
 
 #: classes/class-wc-cart.php:856
 #: classes/class-wc-cart.php:864
 #, php-format
 #@ woocommerce
 msgid "<a href=\"%s\" class=\"button\">%s</a> You cannot add that amount to the cart &mdash; we have %s in stock and you already have %s in your cart."
-msgstr "<a href=\"%s\" class=\"button\">%s</a> Sepetinize bu miktarda ürün ekleyemezsiniz &mdash; şu an stoklarımızda %s adet mevcut ve sepetinizde de %s adet bulunuyor."
+msgstr "<a href=\"%s\" class=\"button\">%s</a> Səbətinizə bu qədər məhsul əlavə edə bilməzsiniz &mdash; hal hazırda depomuzda %s ədəd mövcuddur və səbətinizdə də %s ədəd vardır."
 
 #: classes/class-wc-cart.php:1755
 #@ woocommerce
@@ -471,50 +471,50 @@ msgstr "-"
 #: classes/class-wc-coupon.php:494
 #@ woocommerce
 msgid "Coupon does not exist!"
-msgstr "İndirim Kuponu bulunamadı!"
+msgstr "Endirim kuponu mövcud deyil!"
 
 #: classes/class-wc-checkout.php:64
 #@ woocommerce
 msgid "Account username"
-msgstr "Hesap Kullanıcı adı"
+msgstr "Hesab İstifadəçi Adı"
 
 #: classes/class-wc-checkout.php:65
 #@ woocommerce
 msgctxt "placeholder"
 msgid "Username"
-msgstr "Kullanıcı Adı"
+msgstr "İstifadəçi Adı"
 
 #: classes/class-wc-checkout.php:72
 #: classes/class-wc-checkout.php:79
 #@ woocommerce
 msgid "Account password"
-msgstr "Hesap şifresi"
+msgstr "Hesab şifrəsi"
 
 #: classes/class-wc-checkout.php:73
 #: classes/class-wc-checkout.php:80
 #@ woocommerce
 msgctxt "placeholder"
 msgid "Password"
-msgstr "Şifre"
+msgstr "Şifrə"
 
 #: admin/post-types/shop_order.php:48
 #: admin/post-types/writepanels/writepanels-init.php:71
 #: classes/class-wc-checkout.php:89
 #@ woocommerce
 msgid "Order Notes"
-msgstr "Sipariş Notları"
+msgstr "Sifariş Qeydləri"
 
 #: classes/class-wc-checkout.php:90
 #@ woocommerce
 msgctxt "placeholder"
 msgid "Notes about your order, e.g. special notes for delivery."
-msgstr "Siparişiniz ile ilgili notlar, örn: teslimat ile ilgili özel bilgiler."
+msgstr "Sifarişinizlə əlaqəli qeydlər, məs: çatdırılma ilə əlaqəli xüsusi qeydiniz."
 
 #: classes/class-wc-checkout.php:152
 #, php-format
 #@ woocommerce
 msgid "Order &ndash; %s"
-msgstr "Sipariş &ndash; %s"
+msgstr "Sifariş &ndash; %s"
 
 #: classes/class-wc-checkout.php:152
 #, php-format
@@ -526,60 +526,60 @@ msgstr ""
 #: classes/class-wc-checkout.php:276
 #@ woocommerce
 msgid "Backordered"
-msgstr "ÖnSipariş verildi"
+msgstr "Əvvəlcədən sifariş verildi"
 
 #: classes/class-wc-checkout.php:386
 #, php-format
 #@ woocommerce
 msgid "Sorry, your session has expired. <a href=\"%s\">Return to homepage &rarr;</a>"
-msgstr "Üzgünüz, oturum süresi aşıldı. <a href=\"%s\">Anasayfaya geri dön &rarr;</a>"
+msgstr "Bağışlayın, sessiyanızın vaxtı bitdi. <a href=\"%s\">Baş səhifəyə qayıt &rarr;</a>"
 
 #: classes/class-wc-checkout.php:438
 #: woocommerce-functions.php:1632
 #@ woocommerce
 msgid "is a required field."
-msgstr "gerekli bir alandır."
+msgstr "tələb olunan sətirdir."
 
 #: classes/class-wc-checkout.php:451
 #, php-format
 #@ woocommerce
 msgid "(%s) is not a valid postcode/ZIP."
-msgstr "(%s) geçerli bir Posta Kodu değil!"
+msgstr "(%s) poçt indeksi etibarsızdır!"
 
 #: classes/class-wc-checkout.php:472
 #@ woocommerce
 msgid "is not valid. Please enter one of the following:"
-msgstr "geçerli değil. Lütfen şunlardan birini girin:"
+msgstr "etibarsızdır. Xahiş edirik aşağıdakılardan birini daxil edin:"
 
 #: classes/class-wc-checkout.php:480
 #@ woocommerce
 msgid "is not a valid number."
-msgstr "geçerli bir sayı değil."
+msgstr "daxil etdiyiniz say etibarsızdır."
 
 #: classes/class-wc-checkout.php:487
 #@ woocommerce
 msgid "is not a valid email address."
-msgstr "geçerli bir e-posta değil."
+msgstr "daxil etdiyiniz email etibarsızdır."
 
 #: classes/class-wc-checkout.php:543
 #@ woocommerce
 msgid "Please enter an account username."
-msgstr "Lütfen kullanıcı adınızı giriniz."
+msgstr "Xahiş edirik hesab üçün istifadəçi adı daxil edin."
 
 #: classes/class-wc-checkout.php:547
 #@ woocommerce
 msgid "Invalid email/username."
-msgstr "E-posta/Kullanıcı adı geçersiz."
+msgstr "Email/İstifadəçi Adı etibarsızdır."
 
 #: classes/class-wc-checkout.php:550
 #@ woocommerce
 msgid "An account is already registered with that username. Please choose another."
-msgstr "Girdiğiniz Kullanıcı Adı daha önce sistemimize kayıt olmuş. Lütfen başka bir Kullanıcı Adı seçiniz."
+msgstr "Daxil etdiyiniz İstifadəçi Adı daha əvvəl sistemimizdə qeydiyyatdan keçib. Xahiş edirik başqa bir istifadəçi adı seçin."
 
 #: classes/class-wc-checkout.php:560
 #@ woocommerce
 msgid "Please enter an account password."
-msgstr "Lütfen hesap şifrenizi giriniz"
+msgstr "Xahiş edirik hesab şifrənizi daxil edin"
 
 #: classes/class-wc-checkout.php:563
 #: classes/shortcodes/class-wc-shortcode-lost-password.php:85
@@ -587,27 +587,27 @@ msgstr "Lütfen hesap şifrenizi giriniz"
 #: woocommerce-functions.php:1562
 #@ woocommerce
 msgid "Passwords do not match."
-msgstr "Şifreleriniz birbirleriyle eşleşmiyor."
+msgstr "Şifrələriniz bir birinə uyğun gəlmir."
 
 #: classes/class-wc-checkout.php:567
 #@ woocommerce
 msgid "An account is already registered with your email address. Please login."
-msgstr "Girdiğiniz E-posta adresi ile daha önce zaten bir hesap oluşturulmuş. Lütfen o bilgileri kullanarak giriş yapın."
+msgstr "Daxil etdiyiniz Email ünvanı ilə daha əvvəldən qeydiyyat mövcuddur. Xahiş edirik həmin məlumatlarla daxil olun."
 
 #: classes/class-wc-checkout.php:573
 #@ woocommerce
 msgid "You must accept our Terms &amp; Conditions."
-msgstr "Şartları &amp; Koşulları kabul etmeniz gerekir."
+msgstr "Şərtləri &amp; qəbul etməyiniz tələb olunur."
 
 #: classes/class-wc-checkout.php:582
 #@ woocommerce
 msgid "Invalid shipping method."
-msgstr "Geçersiz Kargo Yöntemi"
+msgstr "Etibarsız çatdırılma üsulu."
 
 #: classes/class-wc-checkout.php:595
 #@ woocommerce
 msgid "Invalid payment method."
-msgstr "Geçersiz Ödeme Yöntemi."
+msgstr "Etibarsız ödəmə üsulu."
 
 #: classes/class-wc-checkout.php:635
 #: woocommerce-core-functions.php:2485
@@ -621,18 +621,18 @@ msgstr "Geçersiz Ödeme Yöntemi."
 #: woocommerce-functions.php:759
 #@ woocommerce
 msgid "ERROR"
-msgstr "H A T A"
+msgstr "X Ə T A"
 
 #: classes/class-wc-checkout.php:635
 #: woocommerce-functions.php:759
 #@ woocommerce
 msgid "Couldn&#8217;t register you&hellip; please contact us if you continue to have problems."
-msgstr "Kaydınız tamamlanamıyor &hellip; lütfen sorun yaşamaya devam ederseniz bizimle irtibata geçiniz."
+msgstr "Qeydiyyatınız həyata keçirilə bilmədi &hellip; xahiş edirik problemi yaşamağa davam edərsinizsə bizimlə əlaqə saxlayın."
 
 #: classes/class-wc-countries.php:37
 #@ woocommerce
 msgid "Afghanistan"
-msgstr "Afganistan"
+msgstr "Əfqanıstan"
 
 #: classes/class-wc-countries.php:38
 #@ woocommerce
@@ -642,12 +642,12 @@ msgstr "&#197;land Adaları"
 #: classes/class-wc-countries.php:39
 #@ woocommerce
 msgid "Albania"
-msgstr "Arnavutluk"
+msgstr "Albaniya"
 
 #: classes/class-wc-countries.php:40
 #@ woocommerce
 msgid "Algeria"
-msgstr "Cezayir"
+msgstr "Əlcəzayir"
 
 #: i18n/states/US.php:67
 #@ woocommerce
@@ -662,7 +662,7 @@ msgstr "Andorra"
 #: classes/class-wc-countries.php:42
 #@ woocommerce
 msgid "Angola"
-msgstr "Angola"
+msgstr "Anqola"
 
 #: classes/class-wc-countries.php:43
 #@ woocommerce
@@ -672,22 +672,22 @@ msgstr "Anguilla"
 #: classes/class-wc-countries.php:44
 #@ woocommerce
 msgid "Antarctica"
-msgstr "Antartika"
+msgstr "Antarktika"
 
 #: classes/class-wc-countries.php:45
 #@ woocommerce
 msgid "Antigua and Barbuda"
-msgstr "Antigua ve Barbuda"
+msgstr "Antigua və Barbuda"
 
 #: classes/class-wc-countries.php:46
 #@ woocommerce
 msgid "Argentina"
-msgstr "Arjantin"
+msgstr "Argentina"
 
 #: classes/class-wc-countries.php:47
 #@ woocommerce
 msgid "Armenia"
-msgstr "Ermenistan"
+msgstr ""
 
 #: classes/class-wc-countries.php:48
 #@ woocommerce
@@ -697,17 +697,17 @@ msgstr "Aruba"
 #: classes/class-wc-countries.php:49
 #@ woocommerce
 msgid "Australia"
-msgstr "Avustralya"
+msgstr "Avstraliya"
 
 #: classes/class-wc-countries.php:50
 #@ woocommerce
 msgid "Austria"
-msgstr "Avusturya"
+msgstr "Avstriya"
 
 #: classes/class-wc-countries.php:51
 #@ woocommerce
 msgid "Azerbaijan"
-msgstr "Azerbeycan"
+msgstr "Azərbaycan"
 
 #: classes/class-wc-countries.php:52
 #@ woocommerce
@@ -717,12 +717,12 @@ msgstr "Bahamalar"
 #: classes/class-wc-countries.php:53
 #@ woocommerce
 msgid "Bahrain"
-msgstr "Bahreyn"
+msgstr "Bəhreyn"
 
 #: classes/class-wc-countries.php:54
 #@ woocommerce
 msgid "Bangladesh"
-msgstr "Bangladeş"
+msgstr "Banqladeş"
 
 #: classes/class-wc-countries.php:55
 #@ woocommerce
@@ -732,7 +732,7 @@ msgstr "Barbados"
 #: classes/class-wc-countries.php:56
 #@ woocommerce
 msgid "Belarus"
-msgstr "Beyaz Rusya"
+msgstr "Belarusiya"
 
 #: classes/class-wc-countries.php:57
 #@ woocommerce
@@ -762,7 +762,7 @@ msgstr "Butan"
 #: classes/class-wc-countries.php:63
 #@ woocommerce
 msgid "Bolivia"
-msgstr "Bolivya"
+msgstr "Boliviya"
 
 #: classes/class-wc-countries.php:64
 #@ woocommerce
@@ -772,7 +772,7 @@ msgstr ""
 #: classes/class-wc-countries.php:65
 #@ woocommerce
 msgid "Bosnia and Herzegovina"
-msgstr "Bosna Hersek"
+msgstr "Bosniya və Hersoqovina"
 
 #: classes/class-wc-countries.php:66
 #@ woocommerce
@@ -787,27 +787,27 @@ msgstr ""
 #: classes/class-wc-countries.php:68
 #@ woocommerce
 msgid "Brazil"
-msgstr "Brezilya"
+msgstr "Braziliya"
 
 #: classes/class-wc-countries.php:69
 #@ woocommerce
 msgid "British Indian Ocean Territory"
-msgstr "Hint Okyanusu İngiliz Bölgesi"
+msgstr "Hind Okeanı İngilis Bölgəsi"
 
 #: classes/class-wc-countries.php:70
 #@ woocommerce
 msgid "British Virgin Islands"
-msgstr "Virjin Adaları (İngiliz)"
+msgstr "Virgin Adaları (İngilis)"
 
 #: classes/class-wc-countries.php:71
 #@ woocommerce
 msgid "Brunei"
-msgstr "Brunei Sultanlığı"
+msgstr "Bruney Sultanlığı"
 
 #: classes/class-wc-countries.php:72
 #@ woocommerce
 msgid "Bulgaria"
-msgstr "Bulgaristan"
+msgstr "Bolqarıstan"
 
 #: classes/class-wc-countries.php:73
 #@ woocommerce
@@ -822,7 +822,7 @@ msgstr "Burundi"
 #: classes/class-wc-countries.php:75
 #@ woocommerce
 msgid "Cambodia"
-msgstr "Kamboçya"
+msgstr "Kamboca"
 
 #: classes/class-wc-countries.php:76
 #@ woocommerce
@@ -842,22 +842,22 @@ msgstr "Cape Verde"
 #: classes/class-wc-countries.php:79
 #@ woocommerce
 msgid "Cayman Islands"
-msgstr "Cayman Adaları"
+msgstr "Kayman Adaları"
 
 #: classes/class-wc-countries.php:80
 #@ woocommerce
 msgid "Central African Republic"
-msgstr "Orta Afrika Cumhuriyeti"
+msgstr "Mərkəzi Afrika Respublikası"
 
 #: classes/class-wc-countries.php:81
 #@ woocommerce
 msgid "Chad"
-msgstr "Çat"
+msgstr "Çad"
 
 #: classes/class-wc-countries.php:82
 #@ woocommerce
 msgid "Chile"
-msgstr "Şili"
+msgstr "Çili"
 
 #: classes/class-wc-countries.php:83
 #@ woocommerce
@@ -907,12 +907,12 @@ msgstr "Kostarika"
 #: classes/class-wc-countries.php:92
 #@ woocommerce
 msgid "Croatia"
-msgstr "Hırvatistan"
+msgstr "Xorvatiya"
 
 #: classes/class-wc-countries.php:93
 #@ woocommerce
 msgid "Cuba"
-msgstr "Küba"
+msgstr "Kuba"
 
 #: classes/class-wc-countries.php:94
 #@ woocommerce
@@ -927,7 +927,7 @@ msgstr "K.K.T.C."
 #: classes/class-wc-countries.php:96
 #@ woocommerce
 msgid "Czech Republic"
-msgstr "Çek Cumhuriyeti"
+msgstr "Çexiya"
 
 #: classes/class-wc-countries.php:97
 #@ woocommerce
@@ -947,17 +947,17 @@ msgstr "Dominika"
 #: classes/class-wc-countries.php:100
 #@ woocommerce
 msgid "Dominican Republic"
-msgstr "Dominik Cumhuriyeti"
+msgstr "Dominikan"
 
 #: classes/class-wc-countries.php:101
 #@ woocommerce
 msgid "Ecuador"
-msgstr "Ekvator"
+msgstr "Ekvador"
 
 #: classes/class-wc-countries.php:102
 #@ woocommerce
 msgid "Egypt"
-msgstr "Mısır"
+msgstr "Misir"
 
 #: classes/class-wc-countries.php:103
 #@ woocommerce
@@ -977,12 +977,12 @@ msgstr "Eritre"
 #: classes/class-wc-countries.php:106
 #@ woocommerce
 msgid "Estonia"
-msgstr "Estonya"
+msgstr "Estoniya"
 
 #: classes/class-wc-countries.php:107
 #@ woocommerce
 msgid "Ethiopia"
-msgstr "Etiyopya"
+msgstr "Efiopiya"
 
 #: classes/class-wc-countries.php:108
 #@ woocommerce
@@ -997,7 +997,7 @@ msgstr "Faroe Adaları"
 #: classes/class-wc-countries.php:110
 #@ woocommerce
 msgid "Fiji"
-msgstr "Fiji"
+msgstr "Fici"
 
 #: classes/class-wc-countries.php:111
 #@ woocommerce
@@ -1038,12 +1038,12 @@ msgstr "Gambiya"
 #: i18n/states/US.php:23
 #@ woocommerce
 msgid "Georgia"
-msgstr "Gürcistan"
+msgstr "Gürcüstan"
 
 #: classes/class-wc-countries.php:119
 #@ woocommerce
 msgid "Germany"
-msgstr "Almanya"
+msgstr "Almaniya"
 
 #: classes/class-wc-countries.php:120
 #@ woocommerce
@@ -1053,27 +1053,27 @@ msgstr "Gana"
 #: classes/class-wc-countries.php:121
 #@ woocommerce
 msgid "Gibraltar"
-msgstr "Cebelitarık"
+msgstr "Cebelüttariq"
 
 #: classes/class-wc-countries.php:122
 #@ woocommerce
 msgid "Greece"
-msgstr "Yunanistan"
+msgstr "Yunanıstan"
 
 #: classes/class-wc-countries.php:123
 #@ woocommerce
 msgid "Greenland"
-msgstr "Grönland"
+msgstr "Qrenlandiya"
 
 #: classes/class-wc-countries.php:124
 #@ woocommerce
 msgid "Grenada"
-msgstr "Grenada"
+msgstr "Qranada"
 
 #: classes/class-wc-countries.php:125
 #@ woocommerce
 msgid "Guadeloupe"
-msgstr "Guadeloupe"
+msgstr "Qvadalupe"
 
 #: i18n/states/US.php:68
 #@ woocommerce
@@ -1083,7 +1083,7 @@ msgstr "Guam"
 #: classes/class-wc-countries.php:126
 #@ woocommerce
 msgid "Guatemala"
-msgstr "Guatemala"
+msgstr "Qvamamela"
 
 #: classes/class-wc-countries.php:127
 #@ woocommerce
@@ -1093,7 +1093,7 @@ msgstr "Guernsey"
 #: classes/class-wc-countries.php:128
 #@ woocommerce
 msgid "Guinea"
-msgstr "Gine"
+msgstr "Qvineya"
 
 #: classes/class-wc-countries.php:129
 #@ woocommerce
@@ -1128,12 +1128,12 @@ msgstr "Hong Kong"
 #: classes/class-wc-countries.php:135
 #@ woocommerce
 msgid "Hungary"
-msgstr "Macaristan"
+msgstr "Macarıstan"
 
 #: classes/class-wc-countries.php:136
 #@ woocommerce
 msgid "Iceland"
-msgstr "İzlanda"
+msgstr "İslandiya"
 
 #: classes/class-wc-countries.php:137
 #@ woocommerce
@@ -1143,7 +1143,7 @@ msgstr "Hindistan"
 #: classes/class-wc-countries.php:138
 #@ woocommerce
 msgid "Indonesia"
-msgstr "Endonezya"
+msgstr "İndoneziya"
 
 #: classes/class-wc-countries.php:139
 #@ woocommerce
@@ -1153,12 +1153,12 @@ msgstr "İran"
 #: classes/class-wc-countries.php:140
 #@ woocommerce
 msgid "Iraq"
-msgstr "Irak"
+msgstr "İraq"
 
 #: classes/class-wc-countries.php:141
 #@ woocommerce
 msgid "Republic of Ireland"
-msgstr "İrlanda Cumhuriyeti"
+msgstr "İrlandiya"
 
 #: classes/class-wc-countries.php:142
 #@ woocommerce
@@ -1173,22 +1173,22 @@ msgstr "İsrail"
 #: classes/class-wc-countries.php:144
 #@ woocommerce
 msgid "Italy"
-msgstr "İtalya"
+msgstr "İtaliya"
 
 #: classes/class-wc-countries.php:145
 #@ woocommerce
 msgid "Ivory Coast"
-msgstr "Fildişi Sahilleri"
+msgstr "Fildişi Sahilləri"
 
 #: classes/class-wc-countries.php:146
 #@ woocommerce
 msgid "Jamaica"
-msgstr "Jamaika"
+msgstr "Yamayka"
 
 #: classes/class-wc-countries.php:147
 #@ woocommerce
 msgid "Japan"
-msgstr "Japonya"
+msgstr "Yaponiya"
 
 #: classes/class-wc-countries.php:148
 #@ woocommerce
@@ -1198,12 +1198,12 @@ msgstr "Jersey"
 #: classes/class-wc-countries.php:149
 #@ woocommerce
 msgid "Jordan"
-msgstr "Ürdün"
+msgstr "İordaniya"
 
 #: classes/class-wc-countries.php:150
 #@ woocommerce
 msgid "Kazakhstan"
-msgstr "Kazakistan"
+msgstr "Qazaxıstan"
 
 #: classes/class-wc-countries.php:151
 #@ woocommerce
@@ -1218,12 +1218,12 @@ msgstr "Kiribati"
 #: classes/class-wc-countries.php:153
 #@ woocommerce
 msgid "Kuwait"
-msgstr "Kuveyt"
+msgstr "Küveyt"
 
 #: classes/class-wc-countries.php:154
 #@ woocommerce
 msgid "Kyrgyzstan"
-msgstr "Kırgızistan"
+msgstr "Qırğızıstan"
 
 #: classes/class-wc-countries.php:155
 #@ woocommerce
@@ -1233,12 +1233,12 @@ msgstr "Laos"
 #: classes/class-wc-countries.php:156
 #@ woocommerce
 msgid "Latvia"
-msgstr "Letonya"
+msgstr "Latviya"
 
 #: classes/class-wc-countries.php:157
 #@ woocommerce
 msgid "Lebanon"
-msgstr "Lübnan"
+msgstr "Livan"
 
 #: classes/class-wc-countries.php:158
 #@ woocommerce
@@ -1253,7 +1253,7 @@ msgstr "Liberya"
 #: classes/class-wc-countries.php:160
 #@ woocommerce
 msgid "Libya"
-msgstr "Libya"
+msgstr "Liviya"
 
 #: classes/class-wc-countries.php:161
 #@ woocommerce
@@ -1263,12 +1263,12 @@ msgstr "Lihtenştayn"
 #: classes/class-wc-countries.php:162
 #@ woocommerce
 msgid "Lithuania"
-msgstr "Litvanya"
+msgstr "Litva"
 
 #: classes/class-wc-countries.php:163
 #@ woocommerce
 msgid "Luxembourg"
-msgstr "Lüksemburg"
+msgstr "Lüksemburq"
 
 #: classes/class-wc-countries.php:164
 #@ woocommerce
@@ -1278,12 +1278,12 @@ msgstr "Makao"
 #: classes/class-wc-countries.php:165
 #@ woocommerce
 msgid "Macedonia"
-msgstr "Makedonya Cumhuriyeti"
+msgstr "Makedoniya"
 
 #: classes/class-wc-countries.php:166
 #@ woocommerce
 msgid "Madagascar"
-msgstr "Madagaskar"
+msgstr "Madaqasqar"
 
 #: classes/class-wc-countries.php:167
 #@ woocommerce
@@ -1293,12 +1293,12 @@ msgstr "Malavi"
 #: classes/class-wc-countries.php:168
 #@ woocommerce
 msgid "Malaysia"
-msgstr "Malezya"
+msgstr "Malaziya"
 
 #: classes/class-wc-countries.php:169
 #@ woocommerce
 msgid "Maldives"
-msgstr "Maldivler"
+msgstr "Maldivlər"
 
 #: classes/class-wc-countries.php:170
 #@ woocommerce
@@ -1328,7 +1328,7 @@ msgstr "Moritanya"
 #: classes/class-wc-countries.php:175
 #@ woocommerce
 msgid "Mauritius"
-msgstr "Mauritius"
+msgstr "Mavritaniya"
 
 #: classes/class-wc-countries.php:176
 #@ woocommerce
@@ -1348,7 +1348,7 @@ msgstr "Mikronezya"
 #: classes/class-wc-countries.php:179
 #@ woocommerce
 msgid "Moldova"
-msgstr "Moldova Cumhuriyeti"
+msgstr "Moldova"
 
 #: classes/class-wc-countries.php:180
 #@ woocommerce
@@ -1358,12 +1358,12 @@ msgstr "Monako"
 #: classes/class-wc-countries.php:181
 #@ woocommerce
 msgid "Mongolia"
-msgstr "Moğolistan"
+msgstr "Monqolustan"
 
 #: classes/class-wc-countries.php:182
 #@ woocommerce
 msgid "Montenegro"
-msgstr "Karadağ"
+msgstr "Monteneqro"
 
 #: classes/class-wc-countries.php:183
 #@ woocommerce
@@ -1373,7 +1373,7 @@ msgstr "Montserrat"
 #: classes/class-wc-countries.php:184
 #@ woocommerce
 msgid "Morocco"
-msgstr "Fas"
+msgstr "Marokko"
 
 #: classes/class-wc-countries.php:185
 #@ woocommerce
@@ -1383,12 +1383,12 @@ msgstr "Mozambik"
 #: classes/class-wc-countries.php:186
 #@ woocommerce
 msgid "Myanmar"
-msgstr "Myanmar"
+msgstr "Myanma"
 
 #: classes/class-wc-countries.php:187
 #@ woocommerce
 msgid "Namibia"
-msgstr "Namibya"
+msgstr "Namibiya"
 
 #: classes/class-wc-countries.php:188
 #@ woocommerce
@@ -1403,37 +1403,37 @@ msgstr "Nepal"
 #: classes/class-wc-countries.php:190
 #@ woocommerce
 msgid "Netherlands"
-msgstr "Hollanda"
+msgstr "Hollandiya"
 
 #: classes/class-wc-countries.php:191
 #@ woocommerce
 msgid "Netherlands Antilles"
-msgstr "Hollanda Antilleri"
+msgstr "Hollandiya Antilləri"
 
 #: classes/class-wc-countries.php:192
 #@ woocommerce
 msgid "New Caledonia"
-msgstr "Yeni Kaledonya"
+msgstr "Yeni Kaledoniya"
 
 #: classes/class-wc-countries.php:193
 #@ woocommerce
 msgid "New Zealand"
-msgstr "Yeni Zelanda"
+msgstr "Yeni Zellandiya"
 
 #: classes/class-wc-countries.php:194
 #@ woocommerce
 msgid "Nicaragua"
-msgstr "Nikaragua"
+msgstr "Nikaraqua"
 
 #: classes/class-wc-countries.php:195
 #@ woocommerce
 msgid "Niger"
-msgstr "Nijer"
+msgstr "Niger"
 
 #: classes/class-wc-countries.php:196
 #@ woocommerce
 msgid "Nigeria"
-msgstr "Nijerya"
+msgstr "Nigeriya"
 
 #: classes/class-wc-countries.php:197
 #@ woocommerce
@@ -1448,12 +1448,12 @@ msgstr "Norfolk Adası"
 #: classes/class-wc-countries.php:199
 #@ woocommerce
 msgid "North Korea"
-msgstr "Kuzey Korea"
+msgstr "Şimali Koreya"
 
 #: i18n/states/US.php:69
 #@ woocommerce
 msgid "Northern Mariana Islands"
-msgstr "Kuzey Mariana Adaları"
+msgstr "Şimali Mariana Adaları"
 
 #: classes/class-wc-countries.php:200
 #@ woocommerce
@@ -1463,7 +1463,7 @@ msgstr "Norveç"
 #: classes/class-wc-countries.php:201
 #@ woocommerce
 msgid "Oman"
-msgstr "Umman"
+msgstr "Oman"
 
 #: classes/class-wc-countries.php:202
 #@ woocommerce
@@ -1473,7 +1473,7 @@ msgstr "Pakistan"
 #: classes/class-wc-countries.php:203
 #@ woocommerce
 msgid "Palestinian Territory"
-msgstr "Filistin"
+msgstr "Fələstin"
 
 #: classes/class-wc-countries.php:204
 #@ woocommerce
@@ -1483,12 +1483,12 @@ msgstr "Panama"
 #: classes/class-wc-countries.php:205
 #@ woocommerce
 msgid "Papua New Guinea"
-msgstr "Papua Yeni Gine"
+msgstr "Papua Yeni Qvineya"
 
 #: classes/class-wc-countries.php:206
 #@ woocommerce
 msgid "Paraguay"
-msgstr "Paraguay"
+msgstr "Paravay"
 
 #: classes/class-wc-countries.php:207
 #@ woocommerce
@@ -1508,22 +1508,22 @@ msgstr "Pitcairn Adası"
 #: classes/class-wc-countries.php:210
 #@ woocommerce
 msgid "Poland"
-msgstr "Polonya"
+msgstr "Polşa"
 
 #: classes/class-wc-countries.php:211
 #@ woocommerce
 msgid "Portugal"
-msgstr "Portekiz"
+msgstr "Portuqaliya"
 
 #: i18n/states/US.php:70
 #@ woocommerce
 msgid "Puerto Rico"
-msgstr "Porto Riko"
+msgstr "Puerto Riko"
 
 #: classes/class-wc-countries.php:212
 #@ woocommerce
 msgid "Qatar"
-msgstr "Katar"
+msgstr "Qatar"
 
 #: classes/class-wc-countries.php:213
 #@ woocommerce
@@ -1533,12 +1533,12 @@ msgstr "Reunion Adası"
 #: classes/class-wc-countries.php:214
 #@ woocommerce
 msgid "Romania"
-msgstr "Romanya"
+msgstr "Romaniya"
 
 #: classes/class-wc-countries.php:215
 #@ woocommerce
 msgid "Russia"
-msgstr "Rusya Federasyonu"
+msgstr "Rusiya Federasiyası"
 
 #: classes/class-wc-countries.php:216
 #@ woocommerce
@@ -1603,17 +1603,17 @@ msgstr "Sao Tome and Principe"
 #: classes/class-wc-countries.php:228
 #@ woocommerce
 msgid "Saudi Arabia"
-msgstr "Sudi Arabistan"
+msgstr "Səudiyyə Ərəbistanı"
 
 #: classes/class-wc-countries.php:229
 #@ woocommerce
 msgid "Senegal"
-msgstr "Senegal"
+msgstr "Seneqal"
 
 #: classes/class-wc-countries.php:230
 #@ woocommerce
 msgid "Serbia"
-msgstr "Sırbistan"
+msgstr "Serbiya"
 
 #: classes/class-wc-countries.php:231
 #@ woocommerce
@@ -1628,17 +1628,17 @@ msgstr "Sierra Leone"
 #: classes/class-wc-countries.php:233
 #@ woocommerce
 msgid "Singapore"
-msgstr "Singapur"
+msgstr "Sinqapur"
 
 #: classes/class-wc-countries.php:234
 #@ woocommerce
 msgid "Slovakia"
-msgstr "Slovakya"
+msgstr "Slovakiya"
 
 #: classes/class-wc-countries.php:235
 #@ woocommerce
 msgid "Slovenia"
-msgstr "Slovenya"
+msgstr "Sloveniya"
 
 #: classes/class-wc-countries.php:236
 #@ woocommerce
@@ -1653,7 +1653,7 @@ msgstr "Somali"
 #: classes/class-wc-countries.php:238
 #@ woocommerce
 msgid "South Africa"
-msgstr "Güney Afrika"
+msgstr "Cənubi Afrika"
 
 #: classes/class-wc-countries.php:239
 #@ woocommerce
@@ -1673,7 +1673,7 @@ msgstr "Güney Sudan"
 #: classes/class-wc-countries.php:242
 #@ woocommerce
 msgid "Spain"
-msgstr "İspanya"
+msgstr "İspaniya"
 
 #: classes/class-wc-countries.php:243
 #@ woocommerce
@@ -1708,12 +1708,12 @@ msgstr "İsveç"
 #: classes/class-wc-countries.php:249
 #@ woocommerce
 msgid "Switzerland"
-msgstr "İsviçre"
+msgstr "İsveçrə"
 
 #: classes/class-wc-countries.php:250
 #@ woocommerce
 msgid "Syria"
-msgstr "Suriye"
+msgstr "Suriya"
 
 #: classes/class-wc-countries.php:251
 #@ woocommerce
@@ -1728,7 +1728,7 @@ msgstr "Tacikistan"
 #: classes/class-wc-countries.php:253
 #@ woocommerce
 msgid "Tanzania"
-msgstr "Tanzanya"
+msgstr "Tanzaniya"
 
 #: classes/class-wc-countries.php:254
 #@ woocommerce
@@ -1758,7 +1758,7 @@ msgstr "Tonga"
 #: classes/class-wc-countries.php:259
 #@ woocommerce
 msgid "Trinidad and Tobago"
-msgstr "Trinidad ve Tobago"
+msgstr "Trinidad və Tobago"
 
 #: classes/class-wc-countries.php:260
 #@ woocommerce
@@ -1768,12 +1768,12 @@ msgstr "Tunus"
 #: classes/class-wc-countries.php:261
 #@ woocommerce
 msgid "Turkey"
-msgstr "Türkiye"
+msgstr "Türkiyə"
 
 #: classes/class-wc-countries.php:262
 #@ woocommerce
 msgid "Turkmenistan"
-msgstr "Türkmenistan"
+msgstr "Türkmənistan"
 
 #: classes/class-wc-countries.php:263
 #@ woocommerce
@@ -1793,7 +1793,7 @@ msgstr "US Minor Outlying Islands"
 #: classes/class-wc-countries.php:265
 #@ woocommerce
 msgid "Uganda"
-msgstr "Uganda"
+msgstr "Uqanda"
 
 #: classes/class-wc-countries.php:266
 #@ woocommerce
@@ -1803,27 +1803,27 @@ msgstr "Ukrayna"
 #: classes/class-wc-countries.php:267
 #@ woocommerce
 msgid "United Arab Emirates"
-msgstr "Birleşik Arap Emirlikleri"
+msgstr "Birləşmiş Ərəb Əmirliklərii"
 
 #: classes/class-wc-countries.php:268
 #@ woocommerce
 msgid "United Kingdom"
-msgstr "İngiltere (Birleşik Krallık)"
+msgstr "İngiltərə (Birləşmiş Krallıq)"
 
 #: classes/class-wc-countries.php:269
 #@ woocommerce
 msgid "United States"
-msgstr "A.B.D."
+msgstr "A.B.Ş."
 
 #: classes/class-wc-countries.php:270
 #@ woocommerce
 msgid "Uruguay"
-msgstr "Uruguay"
+msgstr "Uruqvay"
 
 #: classes/class-wc-countries.php:271
 #@ woocommerce
 msgid "Uzbekistan"
-msgstr "Özbekistan"
+msgstr "Özbəkistan"
 
 #: classes/class-wc-countries.php:272
 #@ woocommerce
@@ -1838,12 +1838,12 @@ msgstr "Vatikan"
 #: classes/class-wc-countries.php:274
 #@ woocommerce
 msgid "Venezuela"
-msgstr "Venezuela"
+msgstr "Venesuella"
 
 #: classes/class-wc-countries.php:275
 #@ woocommerce
 msgid "Vietnam"
-msgstr "Vietnam"
+msgstr "Viyetnam"
 
 #: classes/class-wc-countries.php:276
 #@ woocommerce
@@ -1858,12 +1858,12 @@ msgstr "Batı Sahra"
 #: classes/class-wc-countries.php:278
 #@ woocommerce
 msgid "Yemen"
-msgstr "Yemen"
+msgstr "Yəmən"
 
 #: classes/class-wc-countries.php:279
 #@ woocommerce
 msgid "Zambia"
-msgstr "Zambia"
+msgstr "Zambiya"
 
 #: classes/class-wc-countries.php:280
 #@ woocommerce
@@ -1888,7 +1888,7 @@ msgstr " "
 #: classes/class-wc-countries.php:444
 #@ woocommerce
 msgid "VAT"
-msgstr "KDV"
+msgstr "ƏDV"
 
 #: admin/post-types/writepanels/writepanel-order_data.php:352
 #: admin/settings/settings-tax-rates.php:387
@@ -1905,23 +1905,23 @@ msgstr "Vergi"
 #: classes/class-wc-countries.php:457
 #@ woocommerce
 msgid "(incl. VAT)"
-msgstr "(KDV dahil)"
+msgstr "(ƏDV daxil)"
 
 #: classes/class-wc-countries.php:457
 #@ woocommerce
 msgid "(incl. tax)"
-msgstr "(vergi dahil)"
+msgstr "(vergi daxil)"
 
 #: classes/class-wc-countries.php:470
 #@ woocommerce
 msgid "(ex. VAT)"
-msgstr "(KDV hariç)"
+msgstr "(ƏDV xaric)"
 
 #: admin/post-types/writepanels/writepanel-order_data.php:549
 #: classes/class-wc-countries.php:470
 #@ woocommerce
 msgid "(ex. tax)"
-msgstr "(vergi hariç)"
+msgstr "(vergi xaric)"
 
 #: classes/class-wc-countries.php:694
 #: classes/class-wc-countries.php:704
@@ -1932,7 +1932,7 @@ msgstr "(vergi hariç)"
 #: classes/class-wc-countries.php:872
 #@ woocommerce
 msgid "Province"
-msgstr "İl"
+msgstr "Rayon"
 
 #: classes/class-wc-countries.php:710
 #@ woocommerce
@@ -1943,28 +1943,28 @@ msgstr "Kanton"
 #: classes/class-wc-countries.php:854
 #@ woocommerce
 msgid "Municipality"
-msgstr "Belediye"
+msgstr "Bələdiyyə"
 
 #: classes/class-wc-countries.php:766
 #, fuzzy
 #@ woocommerce
 msgid "Town / District"
-msgstr "Kasaba / İlçe"
+msgstr "Şəhər / Qəsəbə"
 
 #: classes/class-wc-countries.php:769
 #@ woocommerce
 msgid "Region"
-msgstr "Bölge"
+msgstr "Bölgə"
 
 #: classes/class-wc-countries.php:877
 #@ woocommerce
 msgid "Zip"
-msgstr "Posta Kodu"
+msgstr "Poçt İndeksi"
 
 #: classes/class-wc-countries.php:880
 #@ woocommerce
 msgid "State"
-msgstr "Eyalet"
+msgstr "Əyalət"
 
 #: admin/post-types/writepanels/writepanel-order_data.php:168
 #: admin/post-types/writepanels/writepanel-order_data.php:258
@@ -1974,12 +1974,12 @@ msgstr "Eyalet"
 #: templates/cart/shipping-calculator.php:68
 #@ woocommerce
 msgid "Postcode"
-msgstr "Posta Kodu"
+msgstr "Poçt İndeksi"
 
 #: classes/class-wc-countries.php:888
 #@ woocommerce
 msgid "County"
-msgstr "İlçe"
+msgstr "Rayon"
 
 #: classes/class-wc-countries.php:920
 #: classes/class-wc-countries.php:921
@@ -1988,7 +1988,7 @@ msgstr "İlçe"
 #, fuzzy
 #@ woocommerce
 msgid "Postcode / Zip"
-msgstr "Posta Kodu"
+msgstr "Poçt İndeksi"
 
 #: classes/class-wc-countries.php:925
 #: classes/class-wc-countries.php:926
@@ -1996,7 +1996,7 @@ msgstr "Posta Kodu"
 #, fuzzy
 #@ woocommerce
 msgid "Town / City"
-msgstr "Şehir / İl"
+msgstr "Şəhər / Rayon"
 
 #: classes/class-wc-countries.php:930
 #: classes/class-wc-countries.php:931
@@ -2004,7 +2004,7 @@ msgstr "Şehir / İl"
 #, fuzzy
 #@ woocommerce
 msgid "State / County"
-msgstr "Devlet/Eyalet"
+msgstr "Dövlət / Əyalət"
 
 #: admin/post-types/writepanels/writepanel-order_data.php:172
 #: admin/post-types/writepanels/writepanel-order_data.php:262
@@ -2013,21 +2013,21 @@ msgstr "Devlet/Eyalet"
 #: classes/class-wc-countries.php:955
 #@ woocommerce
 msgid "Country"
-msgstr "Ülke"
+msgstr "Ölkə"
 
 #: admin/post-types/writepanels/writepanel-order_data.php:144
 #: admin/post-types/writepanels/writepanel-order_data.php:234
 #: classes/class-wc-countries.php:960
 #@ woocommerce
 msgid "First Name"
-msgstr "İsim"
+msgstr "Ad"
 
 #: admin/post-types/writepanels/writepanel-order_data.php:148
 #: admin/post-types/writepanels/writepanel-order_data.php:238
 #: classes/class-wc-countries.php:965
 #@ woocommerce
 msgid "Last Name"
-msgstr "Soyisim"
+msgstr "Soyad"
 
 #: classes/class-wc-countries.php:971
 #@ woocommerce
@@ -2041,14 +2041,14 @@ msgstr "Firma Adı"
 #: classes/class-wc-countries.php:975
 #@ woocommerce
 msgid "Address"
-msgstr "Adres"
+msgstr "Ünvan"
 
 #: classes/class-wc-countries.php:976
 #, fuzzy
 #@ woocommerce
 msgctxt "placeholder"
 msgid "Street address"
-msgstr "Kaydet"
+msgstr "Küçə ünvanı"
 
 #: classes/class-wc-countries.php:981
 #@ woocommerce
@@ -2059,7 +2059,7 @@ msgstr ""
 #: classes/class-wc-countries.php:1038
 #@ woocommerce
 msgid "Email Address"
-msgstr "E-posta Adresi"
+msgstr "Email ünvanı"
 
 #: admin/post-types/writepanels/writepanel-order_data.php:185
 #: classes/class-wc-countries.php:1044
@@ -2070,40 +2070,40 @@ msgstr "Telefon"
 #: classes/class-wc-coupon.php:459
 #@ woocommerce
 msgid "Coupon usage limit has been reached."
-msgstr "Kupon Kullanım sınırına ulaşıldı."
+msgstr "Kupon istifadə limitini doldurub."
 
 #: classes/class-wc-coupon.php:462
 #@ woocommerce
 msgid "This coupon has expired."
-msgstr "Bu kuponun geçerlilik süresi dolmuş."
+msgstr "Bu kuponun etibarlılıq vaxtı keçib."
 
 #: classes/class-wc-coupon.php:465
 #, php-format
 #@ woocommerce
 msgid "The minimum spend for this coupon is %s."
-msgstr "Bu kuponun kullanılabilmesi için harcanması gereken en az tutar: %s."
+msgstr "Bu kuponu istifadə etmək üçün sifariş etməli olduğunuz məhsulların ən az dəyəri: %s."
 
 #: classes/class-wc-coupon.php:468
 #@ woocommerce
 msgid "Sorry, this coupon is not applicable to your cart contents."
-msgstr "Üzgünüz, bu kupon sepetinizdeki ürünlere uygulanabilir değil!"
+msgstr "Bağışlayın, bu kupon səbətinizdəki məhsullara tətbiq oluna bilməz!"
 
 #: classes/class-wc-customer.php:628
 #: classes/class-wc-customer.php:638
 #, php-format
 #@ woocommerce
 msgid "File %d"
-msgstr "Dosya %d"
+msgstr "Fayl %d"
 
 #: classes/class-wc-emails.php:246
 #@ woocommerce
 msgid "Note"
-msgstr "NoT"
+msgstr "Qeyd"
 
 #: classes/class-wc-emails.php:281
 #@ woocommerce
 msgid "Product low in stock"
-msgstr "Düşük stoklu Ürün"
+msgstr "Anbarda az qalmış məhsul"
 
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:623
 #: classes/class-wc-emails.php:286
@@ -2112,7 +2112,7 @@ msgstr "Düşük stoklu Ürün"
 #, php-format
 #@ woocommerce
 msgid "Variation #%s of %s"
-msgstr "Varyasyon #%s ( %s )"
+msgstr "Variasiya #%s ( %s )"
 
 #: classes/class-wc-emails.php:288
 #: classes/class-wc-emails.php:320
@@ -2120,33 +2120,33 @@ msgstr "Varyasyon #%s ( %s )"
 #, php-format
 #@ woocommerce
 msgid "Product #%s - %s"
-msgstr "Ürün #%s - %s"
+msgstr "Məhsul #%s - %s"
 
 #: classes/class-wc-emails.php:290
 #@ woocommerce
 msgid "is low in stock."
-msgstr "düşük stoklu"
+msgstr "anbarda az qalıb"
 
 #: classes/class-wc-emails.php:313
 #@ woocommerce
 msgid "Product out of stock"
-msgstr "Ürün stokta yok"
+msgstr "Məhsul anbarda yoxdur"
 
 #: classes/class-wc-emails.php:322
 #@ woocommerce
 msgid "is out of stock."
-msgstr "stokta yok."
+msgstr "anbarda yoxdur."
 
 #: classes/class-wc-emails.php:357
 #@ woocommerce
 msgid "Product Backorder"
-msgstr "Ürün Önsipariş"
+msgstr "Əvvəlcədən məhsul sifarişi"
 
 #: classes/class-wc-emails.php:366
 #, php-format
 #@ woocommerce
 msgid "%s units of %s have been backordered in order #%s."
-msgstr "%s adet %s ürünü için ön sipariş yapıldı: #%s."
+msgstr "%s ədəd %s məhsul əvvəlcədən sifariş edildi: #%s."
 
 #: classes/class-wc-order.php:283
 #@ woocommerce
@@ -2163,35 +2163,35 @@ msgstr "&nbsp;<small>%s -- %s</small>"
 #: classes/class-wc-order.php:923
 #@ woocommerce
 msgid "Cart Subtotal:"
-msgstr "Sepet Ara-Toplamı:"
+msgstr "Səbət Ümumi Toplamı:"
 
 #: admin/post-types/writepanels/writepanel-order_data.php:499
 #: classes/class-wc-order.php:929
 #@ woocommerce
 msgid "Cart Discount:"
-msgstr "Sepet İndirimi:"
+msgstr "Səbət Endirimi:"
 
 #: classes/class-wc-order.php:935
 #@ woocommerce
 msgid "Shipping:"
-msgstr "Kargo:"
+msgstr "Çatdırılma:"
 
 #: classes/class-wc-order.php:980
 #@ woocommerce
 msgid "Subtotal:"
-msgstr "Ara-Toplam:"
+msgstr "Ümumi Toplam:"
 
 #: admin/post-types/writepanels/writepanel-order_data.php:507
 #: classes/class-wc-order.php:1006
 #@ woocommerce
 msgid "Order Discount:"
-msgstr "Sipariş İndirimi:"
+msgstr "Sifariş Endirimi:"
 
 #: admin/post-types/writepanels/writepanel-order_data.php:653
 #: classes/class-wc-order.php:1011
 #@ woocommerce
 msgid "Order Total:"
-msgstr "Sipariş Tutarı:"
+msgstr "Sifariş Qiyməti:"
 
 #: classes/class-wc-order.php:1034
 #: templates/cart/totals.php:145
@@ -2199,7 +2199,7 @@ msgstr "Sipariş Tutarı:"
 #, php-format
 #@ woocommerce
 msgid "(Includes %s)"
-msgstr "(%s Dahil)"
+msgstr "(%s daxil)"
 
 #. translators: plugin header field 'Name'
 #: admin/woocommerce-admin-content.php:83
@@ -2216,7 +2216,7 @@ msgstr "WooCommerce"
 #, php-format
 #@ woocommerce
 msgid "Order status changed from %s to %s."
-msgstr "Sipariş Durumu: %s den %s e değişti."
+msgstr "Sifariş vəziyyəti: %s dən %s ə dəyişdi."
 
 #: classes/class-wc-order.php:1461
 #: woocommerce-ajax.php:1163
@@ -2224,17 +2224,17 @@ msgstr "Sipariş Durumu: %s den %s e değişti."
 #, php-format
 #@ woocommerce
 msgid "Item #%s stock reduced from %s to %s."
-msgstr "Ürün: #%s için stok durumu %s 'ten %s 'e azaltıldı."
+msgstr "Məhsul: #%s üçün anbar sayı %s 'dən %s 'ə azaldıldı."
 
 #: classes/class-wc-order.php:1473
 #@ woocommerce
 msgid "Order item stock reduced successfully."
-msgstr "Siparişteki ürünlerin Stokları başarıyla eksiltilmiştir."
+msgstr "Sifarişdəki məhsulların Anbardakı sayları müvəffəqiyyətlə azaldıldı."
 
 #: classes/class-wc-product-external.php:56
 #@ woocommerce
 msgid "Buy product"
-msgstr "Ürünü Satın Al"
+msgstr "Məhsulu Sifariş Et"
 
 #: admin/settings/settings-init.php:500
 #: classes/class-wc-shortcodes.php:571
@@ -2246,43 +2246,43 @@ msgstr "Ürünü Satın Al"
 #: templates/single-product/add-to-cart/variable.php:78
 #@ woocommerce
 msgid "Add to cart"
-msgstr "Sepete Ekle"
+msgstr "Səbətə Əlavə Et"
 
 #: classes/emails/class-wc-email-customer-completed-order.php:24
 #@ woocommerce
 msgid "Completed order"
-msgstr "Tamamlanmış Sipariş"
+msgstr "Tamamlanmış Sifariş"
 
 #: classes/emails/class-wc-email-customer-completed-order.php:25
 #@ woocommerce
 msgid "Order complete emails are sent to the customer when the order is marked complete and usual indicates that the order has been shipped."
-msgstr "Tamamlanmış Sipariş Email-i, sipariş durumu tamamlandı olarak değiştirildiğinde gönderilir ve genellikle siparişin hazırlanarak kargoya verildiğini belirtir."
+msgstr "Tamamlanmış Sifariş Email-i, sifariş vəziyyəti tamamlandı olaraq dəyişdirildiyində göndərilir və əsasən sifarişin hazırlanaraq karqoya verildiyini göstərir."
 
 #: classes/emails/class-wc-email-customer-completed-order.php:27
 #@ woocommerce
 msgid "Your order is complete"
-msgstr "Siparişiniz Tamamlandı"
+msgstr "Sifarişiniz Tamamlandı"
 
 #: classes/emails/class-wc-email-customer-completed-order.php:28
 #@ woocommerce
 msgid "Your {blogname} order from {order_date} is complete"
-msgstr "{blogname} üzerinden yaptığınız {order_date} tarihli siparişiniz Tamamlandı"
+msgstr "{blogname} adı ilə verdiyiniz {order_date} tarixli sifarişiniz Tamamlandı"
 
 #: classes/emails/class-wc-email-customer-completed-order.php:37
 #@ woocommerce
 msgid "Your order is complete - download your files"
-msgstr "Siparişiniz Tamamlandı - dosyalarınızı indirebilirsiniz"
+msgstr "Sifarişiniz Tamamlandı - fayllarınızı endirə bilərsiniz"
 
 #: classes/emails/class-wc-email-customer-completed-order.php:38
 #@ woocommerce
 msgid "Your {blogname} order from {order_date} is complete - download your files"
-msgstr "{blogname} üzerinden yaptığınız {order_date} tarihli siparişiniz Tamamlandı - dosyalarınızı indirebilirsiniz"
+msgstr "{blogname} adı ilə verdiyiniz {order_date} tarixli sifarişiniz Tamamlandı - fayllarınızı endirə bilərsiniz"
 
 #: classes/emails/class-wc-email-customer-completed-order.php:141
 #: classes/emails/class-wc-email-new-order.php:128
 #@ woocommerce
 msgid "Subject"
-msgstr "Konu"
+msgstr "Mövzu"
 
 #: classes/emails/class-wc-email-customer-completed-order.php:148
 #: classes/emails/class-wc-email-new-order.php:135
@@ -2293,153 +2293,153 @@ msgstr "Email Başlığı"
 #: classes/emails/class-wc-email-customer-completed-order.php:155
 #@ woocommerce
 msgid "Subject (downloadable)"
-msgstr "Konu (indirilebilir)"
+msgstr "Mövzu (endirilə bilər)"
 
 #: classes/emails/class-wc-email-customer-completed-order.php:162
 #@ woocommerce
 msgid "Email Heading (downloadable)"
-msgstr "Email Başlığı (indirilebilir)"
+msgstr "Email Başlığı (endirilə bilər)"
 
 #: classes/emails/class-wc-email-customer-invoice.php:27
 #@ woocommerce
 msgid "Customer invoice"
-msgstr "Müşteri Faturası"
+msgstr "Müştəri Fakturası"
 
 #: classes/emails/class-wc-email-customer-invoice.php:28
 #@ woocommerce
 msgid "Customer invoice emails can be sent to the user containing order info and payment links."
-msgstr "Müşteri Fatura e-postaları, kullanıcıya sipariş bilgileri ve ödeme bağlantılarını içerecek şekilde gönderilebilir."
+msgstr "Müştəri Faktura e-mailləri, istifadəçiyə sifariş məlumatları və ödəmə bağlantılarını göstərəcək şəkildə göndərilə bilər."
 
 #: classes/emails/class-wc-email-customer-invoice.php:33
 #@ woocommerce
 msgid "Invoice for order {order_number} from {order_date}"
-msgstr "{order_date} tarihli {order_number} numaralı sipariş için Fatura"
+msgstr "{order_date} tarixli {order_number} nömrəli sifariş üçün Faktura"
 
 #: classes/emails/class-wc-email-customer-invoice.php:34
 #@ woocommerce
 msgid "Invoice for order {order_number}"
-msgstr "{order_number} numaralı sipariş için Fatura"
+msgstr "{order_number} nömrəli sifariş üçün Faktura"
 
 #: classes/emails/class-wc-email-customer-invoice.php:36
 #@ woocommerce
 msgid "Your {blogname} order from {order_date}"
-msgstr "{blogname} üzerinden {order_date} tarihli tarihli Siparişiniz"
+msgstr "{blogname} adı ilə {order_date} tarixli Sifarişiniz"
 
 #: classes/emails/class-wc-email-customer-invoice.php:37
 #@ woocommerce
 msgid "Order {order_number} details"
-msgstr "{order_number} numaralı Siparişinizin Detayları"
+msgstr "{order_number} nömrəli Sifarişinizin Detalları"
 
 #: classes/emails/class-wc-email-customer-invoice.php:158
 #@ woocommerce
 msgid "Email subject (paid)"
-msgstr "Email Konusu (ödendi)"
+msgstr "Email Mövzusu (ödəndi)"
 
 #: classes/emails/class-wc-email-customer-invoice.php:165
 #@ woocommerce
 msgid "Email heading (paid)"
-msgstr "Email Başlık (ödendi)"
+msgstr "Email Başlığı (ödəndi)"
 
 #: classes/emails/class-wc-email-customer-new-account.php:31
 #@ woocommerce
 msgid "New account"
-msgstr "Yeni Hesap"
+msgstr "Yeni Hesab"
 
 #: classes/emails/class-wc-email-customer-new-account.php:32
 #@ woocommerce
 msgid "Customer new account emails are sent when a customer signs up via the checkout or My Account page."
-msgstr "Yeni Müşteri Hesabı Emaili, Üye Olmak istendiğinde site üzerinden Yeni Kayıt formu doldurulduğunda gönderilir. "
+msgstr "Yeni Müştəri Hesabı Emaili, Üzv Olmaq istəndiyinde sayt vasitəsilə Yeni Qeydiyyat forması doldurulduğunda göndərilir. "
 
 #: classes/emails/class-wc-email-customer-new-account.php:37
 #@ woocommerce
 msgid "Your account on {blogname}"
-msgstr "{blogname} sistemindeki Yeni Hesabınız"
+msgstr "{blogname} adı ilə Yeni Hesabınız"
 
 #: classes/emails/class-wc-email-customer-new-account.php:38
 #@ woocommerce
 msgid "Welcome to {blogname}"
-msgstr "{blogname}-e Hoşgeldiniz"
+msgstr "{blogname}-ə Xoşgəldiniz"
 
 #: admin/post-types/writepanels/writepanel-order_notes.php:62
 #: classes/emails/class-wc-email-customer-note.php:29
 #@ woocommerce
 msgid "Customer note"
-msgstr "Müşteri Notu"
+msgstr "Müştəri Qeydi"
 
 #: classes/emails/class-wc-email-customer-note.php:30
 #@ woocommerce
 msgid "Customer note emails are sent when you add a note to an order."
-msgstr "Müşteri Notu Emaili, sipariş kontrolleri sırasında siparişe bir not eklendiğinde gönderilir."
+msgstr "Müştəri Qeydi Emaili, sifariş yoxlamaları zamanı sifarişə bir qeyd əlavə edildiyində göndərilir."
 
 #: classes/emails/class-wc-email-customer-note.php:35
 #@ woocommerce
 msgid "Note added to your {blogname} order from {order_date}"
-msgstr "{blogname} üzerinden yaptığınız {order_date} tarihli siparişinize bir not eklendi"
+msgstr "{blogname} adı ilə verdiyiniz {order_date} tarixli sifarişinizə bir qeyd əlavə edildi"
 
 #: classes/emails/class-wc-email-customer-note.php:36
 #@ woocommerce
 msgid "A note has been added to your order"
-msgstr "Siparişinize bir not eklenmiştir."
+msgstr "Sifarişinizə bir qeyd əlavə edilmişdir."
 
 #: classes/emails/class-wc-email-customer-processing-order.php:24
 #@ woocommerce
 msgid "Processing order"
-msgstr "Sipariş Hazırlanıyor"
+msgstr "Sifariş Hazırlanır"
 
 #: classes/emails/class-wc-email-customer-processing-order.php:25
 #@ woocommerce
 msgid "This is an order notification sent to the customer after payment containing order details."
-msgstr "Ödeme yapıldıktan sonra Müşteriye gönderilen ve Sipariş Detaylarını içeren Sipariş Bilgilendirme mesajıdır."
+msgstr "Ödəmə edildikdən sonra Müştəriyə göndərilən və Sifariş Detalları haqqında Sifariş Məlumatlandırma mesajıdır."
 
 #: classes/emails/class-wc-email-customer-processing-order.php:27
 #@ woocommerce
 msgid "Thank you for your order"
-msgstr "Siparişiniz için Teşekkür Ederiz"
+msgstr "Sifarişiniz üçün Təşəkkür Edirik"
 
 #: classes/emails/class-wc-email-customer-processing-order.php:28
 #@ woocommerce
 msgid "Your {blogname} order receipt from {order_date}"
-msgstr "{blogname} üzerinden yaptığınız {order_date} tarihli Siparişinizin Makbuzu"
+msgstr "{blogname} adı ilə verdiyiniz {order_date} tarixli Sifarişinizin Qəbzi"
 
 #: classes/emails/class-wc-email-customer-reset-password.php:36
 #@ woocommerce
 msgid "Reset password"
-msgstr "Şifre Sıfırla"
+msgstr "Şifrə Sıfırla"
 
 #: classes/emails/class-wc-email-customer-reset-password.php:37
 #@ woocommerce
 msgid "Customer reset password emails are sent when a customer resets their password."
-msgstr "Müşteri şifre sınırlama e-postası, bir müşteri kendi şifresinin sıfırlanmasını istediğinde gönderilir."
+msgstr "Müştəri şifrə sıfırlama emaili, bir müştəri öz şifrəsinin sıfırlanmasını istədiyində göndərilir."
 
 #: classes/emails/class-wc-email-customer-reset-password.php:42
 #@ woocommerce
 msgid "Password Reset for {blogname}"
-msgstr "{blogname} için Şifre Sıfırlama"
+msgstr "{blogname} üçün Şifrə Sıfırlama"
 
 #: classes/emails/class-wc-email-customer-reset-password.php:43
 #@ woocommerce
 msgid "Password Reset Instructions"
-msgstr "Şifre Sıfırlama işlemleri"
+msgstr "Şifrə Sıfırlama əməliyyatları"
 
 #: classes/emails/class-wc-email-new-order.php:24
 #@ woocommerce
 msgid "New order"
-msgstr "Yeni Sipariş"
+msgstr "Yeni Sifariş"
 
 #: classes/emails/class-wc-email-new-order.php:25
 #@ woocommerce
 msgid "New order emails are sent when an order is received/paid by a customer."
-msgstr "Yeni Sipariş Emaili, müşteri tarafından bir sipariş sonlandırılıp/ödendiği zaman gönderilir."
+msgstr "Yeni Sifariş Emaili, müştəri tərəfindən bir sifariş sonlandırılıb/ödəndiyi zaman göndərilir."
 
 #: classes/emails/class-wc-email-new-order.php:27
 #@ woocommerce
 msgid "New customer order"
-msgstr "Yeni Müşteri Siparişi"
+msgstr "Yeni Müştəri Sifarişi"
 
 #: classes/emails/class-wc-email-new-order.php:28
 #@ woocommerce
 msgid "[{blogname}] New customer order ({order_number}) - {order_date}"
-msgstr "[{blogname}] Yeni Müşteri Siparişi ({order_number}) - {order_date}"
+msgstr "[{blogname}] Yeni Müştəri Sifarişi ({order_number}) - {order_date}"
 
 #: classes/emails/class-wc-email-new-order.php:121
 #@ woocommerce
@@ -2450,29 +2450,29 @@ msgstr "Alıcı(lar)"
 #, php-format
 #@ woocommerce
 msgid "Enter recipients (comma separated) for this email. Defaults to <code>%s</code>."
-msgstr "Bu email için Alıcı(ları) belirleyin; 1den fazla alıcı için (,) ile ayırabilirsiniz. (Varsayılan: <code>%s</code>)"
+msgstr "Bu email üçün Alıcı(ları) müəyyən edin; 1-dən fazla alıcı üçün (,) ile ayıra bilərsiniz. (Varsayılan: <code>%s</code>)"
 
 #: classes/emails/class-wc-email-new-order.php:130
 #, php-format
 #@ woocommerce
 msgid "This controls the email subject line. Leave blank to use the default subject: <code>%s</code>."
-msgstr "Email-in Konu satırını kontrol eder. Varsayılan konuyu (<code>%s</code>) kullanmak isterseniz boş bırakabilirsiniz."
+msgstr "Email-in Mövzu sətrini yoxlayır. Varsayılan mövzunu (<code>%s</code>) istifadə etmək üçün boş buraxa bilərsiniz."
 
 #: classes/emails/class-wc-email-new-order.php:137
 #, php-format
 #@ woocommerce
 msgid "This controls the main heading contained within the email notification. Leave blank to use the default heading: <code>%s</code>."
-msgstr "Bilgilendirme Email-inin içeriğindeki başlık bölmesini kontrol eder. Varsayılan başlığı (<code>%s</code>) kullanmak isterseniz boş bırakabilirsiniz."
+msgstr "Məlumatlandırma Email-inin tərkibindəki başlıq bölməsini yoxlayır. Varsayılan başlığı (<code>%s</code>) istifadə etmək üçün boş buraxa bilərsiniz."
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:28
 #@ woocommerce
 msgid "Bacs"
-msgstr "Banka-Havale"
+msgstr "Bank-Göndərişi"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:65
 #@ woocommerce
 msgid "Enable Bank Transfer"
-msgstr "Banka Havalesini Etkinleştir"
+msgstr "Bank Göndərişini Aktiv et"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:69
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:63
@@ -2483,7 +2483,7 @@ msgstr "Banka Havalesini Etkinleştir"
 #: classes/shipping/local-pickup/class-wc-shipping-local-pickup.php:84
 #@ woocommerce
 msgid "Title"
-msgstr "Başlık"
+msgstr "Başlıq"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:71
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:65
@@ -2496,52 +2496,52 @@ msgstr "Başlık"
 #: classes/shipping/local-pickup/class-wc-shipping-local-pickup.php:86
 #@ woocommerce
 msgid "This controls the title which the user sees during checkout."
-msgstr "Bu alan Ödeme işlemi sırasında müşterinizin göreceği başlığı kontrol eder."
+msgstr "Bu bölmə Ödəmə əməliyyatı zamanı müştərinizin görəcəyi başlığı yoxlayır."
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:72
 #@ woocommerce
 msgid "Direct Bank Transfer"
-msgstr "Banka Havalesi"
+msgstr "Bank Göndərişi"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:76
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:70
 #@ woocommerce
 msgid "Customer Message"
-msgstr "Müşteri Mesajı"
+msgstr "Müştəri Mesajı"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:78
 #@ woocommerce
 msgid "Give the customer instructions for paying via BACS, and let them know that their order won't be shipping until the money is received."
-msgstr "Banka Havalesi ile yapılacak ödemeler ile ilgili talimatları yazın. Gönderilen havalenin hesaba geçtiği tarafınızca teyit edilmedikçe siparişin geçerli olmayacağını, kargonun gönderilmeyeceğini bildirin."
+msgstr "Bank Göndərişi ilə ediləcək ödemələr ilə əlaqəli təlimatları yazın. Göndərilən məbləğn hesaba oturduğu tərəfinizdən təsdiq edilmədikcə sifarişin etibarlı olmayacağını, məhsulun göndərilməyəcəyini bildirin."
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:79
 #@ woocommerce
 msgid "Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order wont be shipped until the funds have cleared in our account."
-msgstr "Ödemeyi bilgileri verilen Banka Hesabımıza yatırın. Lütfen ilgili Sipariş Numarasını havale dekontunun açıklama kısmına yazınız. Siparişiniz abanka havalesi onaylanmadıkça işleme alınmayacaktır."
+msgstr "Məbləği məlumatları verilən Bank Hesabımıza ödəyin. Xahiş edirik əlaqəli Sifariş Nömrəsini göndəriş dekontunun açıqlama qisminə yazın. Sifarişiniz bank göndərişiniz təsdiqlənmədikcə göndərilməyəcəkdir."
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:82
 #@ woocommerce
 msgid "Account Details"
-msgstr "Hesap Detayları"
+msgstr "Hesab Detalları"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:84
 #@ woocommerce
 msgid "Optionally enter your bank details below for customers to pay into."
-msgstr "Dilerseniz, müşterilerin ödeme yapabilmeleri için Banka Hesap Bilgilerinizi aşağıya ekleyebilirsiniz."
+msgstr "İstərsəniz, müştərilərin ödəmə edəbilmələri üçün Bank Hesab Məlumatlarını aşağıya əlavə edə bilərsiniz."
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:88
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:163
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:203
 #@ woocommerce
 msgid "Account Name"
-msgstr "Hesap Adı"
+msgstr "Hesab Adı"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:94
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:164
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:204
 #@ woocommerce
 msgid "Account Number"
-msgstr "Hesap Numarası"
+msgstr "Hesab Nömrəsi"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:100
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:165
@@ -2555,7 +2555,7 @@ msgstr "Sıralama Kodu"
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:206
 #@ woocommerce
 msgid "Bank Name"
-msgstr "Banka Adı"
+msgstr "Bank Adı"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:112
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:167
@@ -2567,23 +2567,23 @@ msgstr "IBAN"
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:117
 #@ woocommerce
 msgid "BIC (formerly Swift)"
-msgstr "BIC (Swift olarak da bilinir)"
+msgstr "BIC (Swift olaraq da bilinir)"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:136
 #@ woocommerce
 msgid "BACS Payment"
-msgstr "Banka Havalesi"
+msgstr "Bank Göndərişi"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:137
 #@ woocommerce
 msgid "Allows payments by BACS (Bank Account Clearing System), more commonly known as direct bank/wire transfer."
-msgstr "Banka Havalesi ile ödemeler için bu alanı kullanın."
+msgstr "Bank Göndərişi ilə ödəmələr üçün bu bölmədən istifadə edin."
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:158
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:200
 #@ woocommerce
 msgid "Our Details"
-msgstr "Banka Bilgilerimiz"
+msgstr "Bank Məlumatlarımız"
 
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:168
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:208
@@ -2594,7 +2594,7 @@ msgstr "BIC"
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:234
 #@ woocommerce
 msgid "Awaiting BACS payment"
-msgstr "Ödeme bekleyen Banka Havalesi işlemleri"
+msgstr "Ödəmə gözləyən Bank Göndərişi əməliyyatları"
 
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:28
 #@ woocommerce
@@ -2604,60 +2604,60 @@ msgstr "Çek"
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:59
 #@ woocommerce
 msgid "Enable Cheque Payment"
-msgstr "Çekle Ödemeyi Etkinleştir"
+msgstr "Çeklə Ödəməni Aktiv Et"
 
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:66
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:90
 #@ woocommerce
 msgid "Cheque Payment"
-msgstr "Çekle Ödeme"
+msgstr "Çeklə Ödəmə"
 
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:72
 #@ woocommerce
 msgid "Let the customer know the payee and where they should be sending the cheque to and that their order won't be shipping until you receive it."
-msgstr "Çekle Ödeme yapılabilmesi için gereken; Alıcı adı, ünvanı, adresi vs. gibi talimatları yazın ve gönderilen çekin hesaba geçmeden siparişin geçerli olmayacağını, kargonun gönderilmeyeceğini bildirin."
+msgstr "Çeklə Ödəmə ediləbilməsi üçün lazım olan; Alıcı adı, ünvanı  və s. kimi təlimatları yazın və göndərilən çekin hesaba oturmadan sifarişin etibarlı olmayacağını, məhsulun göndərilməyəcəyini bildirin."
 
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:73
 #@ woocommerce
 msgid "Please send your cheque to Store Name, Store Street, Store Town, Store State / County, Store Postcode."
-msgstr "Lütfen Çeklerinizi Firmamızın İsim, Ünvan, Adres, Şehir, Posta Kodu, Ülke detaylarını tam olarak içerecek şekilde doldurarak gönderiniz."
+msgstr "Xahiş edirik Çeklərinizi Firmamızın Adı, Ünvan, Şəhər, Poçt İndeksi, Ölkə detallarını tam olaraq, aydın şəkildə dolduraraq göndərəsiniz."
 
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:91
 #@ woocommerce
 msgid "Allows cheque payments. Why would you take cheques in this day and age? Well you probably wouldn't but it does allow you to make test purchases for testing order emails and the 'success' pages etc."
-msgstr "Çekle Ödeme sağlar. Bu şartlarda çekle ödeme kullanılmak mantıklı olmayabilir! Ama yine de sistemi test ederken, deneme siparişleri için kullanılabilir ve Ödeme sayfalarına geçişi sağlayabilir."
+msgstr "Çeklə Ödəməni təmin edir. Bu şərtlərdə çeklə ödəmədən istifadə etmək məntiqli olmaya bilər! Amma yenə də sistemi test edərkən, sınaq sifarişləri üçün istifadə oluna bilər və Ödəmə səhifələrinə keçidi təmin edə bilər."
 
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:147
 #@ woocommerce
 msgid "Awaiting cheque payment"
-msgstr "Çekin Ödenmesi bekleniyor"
+msgstr "Çekin Ödənməsi gözlənilir"
 
 #: classes/gateways/cod/class-wc-gateway-cod.php:27
 #: classes/gateways/cod/class-wc-gateway-cod.php:54
 #: classes/gateways/cod/class-wc-gateway-cod.php:90
 #@ woocommerce
 msgid "Cash on Delivery"
-msgstr "Kapıda Ödeme"
+msgstr "Qapıda Ödəmə"
 
 #: classes/gateways/cod/class-wc-gateway-cod.php:55
 #@ woocommerce
 msgid "Have your customers pay with cash (or by other means) upon delivery."
-msgstr "Müşterilerinizin ödemeyi Teslimat anında Nakit (veya bir diğer yolla) yapması yöntemidir."
+msgstr "Müştərilərinizin ödəməni Təslimat anında Nəğd (və ya digər bir yolla) həyata keçirməsi üsuludur."
 
 #: classes/gateways/cod/class-wc-gateway-cod.php:80
 #@ woocommerce
 msgid "Enable COD"
-msgstr "Kapıda Ödeme (CoD) Etkinleştir"
+msgstr "Qapıda Ödəmə (CoD) Aktiv Et"
 
 #: classes/gateways/cod/class-wc-gateway-cod.php:81
 #@ woocommerce
 msgid "Enable Cash on Delivery"
-msgstr "Kapıda Ödeme (CoD) Etkinleştir"
+msgstr "Qapıda Ödəmə (CoD) Aktiv Et"
 
 #: classes/gateways/cod/class-wc-gateway-cod.php:89
 #@ woocommerce
 msgid "Payment method title that the customer will see on your website."
-msgstr "Sitenizde müşterilerinizin göreceği Ödeme Yöntemi Başlığı"
+msgstr "Saytınızda müştərilərinizin görəcəyi Ödəme Üsulu Başlığı"
 
 #: admin/post-types/shop_coupon.php:28
 #: classes/gateways/cod/class-wc-gateway-cod.php:94
@@ -2666,85 +2666,85 @@ msgstr "Sitenizde müşterilerinizin göreceği Ödeme Yöntemi Başlığı"
 #: woocommerce-template.php:748
 #@ woocommerce
 msgid "Description"
-msgstr "Açıklama"
+msgstr "Açıqlama"
 
 #: classes/gateways/cod/class-wc-gateway-cod.php:96
 #@ woocommerce
 msgid "Payment method description that the customer will see on your website."
-msgstr "Sitenizde müşterilerinizin göreceği Ödeme Yöntemi Açıklaması"
+msgstr "Saytınızda müştərilərinizin görəcəyi Ödəmə Üsulu Açıqlaması"
 
 #: classes/gateways/cod/class-wc-gateway-cod.php:100
 #@ woocommerce
 msgid "Instructions"
-msgstr "Talimatlar"
+msgstr "Təlimatlar"
 
 #: classes/gateways/cod/class-wc-gateway-cod.php:102
 #@ woocommerce
 msgid "Instructions that will be added to the thank you page."
-msgstr "Teşekkür Sayfasına eklenecek Talimatlar"
+msgstr "Təşəkkür Səhifəsinə əlavə olunacaq Təlimatlar"
 
 #: classes/gateways/cod/class-wc-gateway-cod.php:106
 #@ woocommerce
 msgid "Enable for shipping methods"
-msgstr "Nakliye Yöntemleri için etkinleştir"
+msgstr "Çatdırılma Üsulları üçün aktiv et"
 
 #: classes/gateways/cod/class-wc-gateway-cod.php:111
 #@ woocommerce
 msgid "If COD is only available for certain methods, set it up here. Leave blank to enable for all methods."
-msgstr "Eğer Kapıda Ödeme sadece bazı yöntemler için geçerli olacaksa, burada belirleyebilirsiniz. Tüm yöntemlerde geçerli olması için boş bırakmanız yeterli."
+msgstr "Əgər Qapıda Ödəmə sadəcə bəzi üsullar üçün etibarlı olacaqsa, burda göstərə bilərsiniz. Bütün üsullarda etibarlı olması üçün boş buraxmağınız kifayət edər."
 
 #: classes/gateways/cod/class-wc-gateway-cod.php:176
 #@ woocommerce
 msgid "Payment to be made upon delivery."
-msgstr "Ödeme teslimat anında gerçekleştirilecektir."
+msgstr "Ödəmə təslimat anında həyata keçirilicəkdir."
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:31
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:196
 #@ woocommerce
 msgid "Mijireh Checkout"
-msgstr "Mijireh ile Ödeme"
+msgstr "Mijireh ilə Ödəmə"
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:143
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:321
 #@ woocommerce
 msgid "Mijireh error:"
-msgstr "Mijireh hatası:"
+msgstr "Mijireh xətası:"
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:160
 #@ woocommerce
 msgid "Enable Mijireh Checkout"
-msgstr "Mijireh ile Ödemeyi Etkinleştir"
+msgstr "Mijireh ilə Ödəməni Aktiv Et"
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:164
 #@ woocommerce
 msgid "Access Key"
-msgstr "Erişim Anahtarı"
+msgstr "Giriş Açarı"
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:166
 #@ woocommerce
 msgid "The Mijireh access key for your store."
-msgstr "Mağazanız için Mijireh erişim anahtarı."
+msgstr "Mağazanız üçün Mijireh giriş açarı."
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:174
 #@ woocommerce
 msgid "Credit Card"
-msgstr "Kredi Kartı"
+msgstr "Kredit Kartı"
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:180
 #@ woocommerce
 msgid "Pay securely with you credit card."
-msgstr "Kredi Kartınızı güvenle kullanabilirsiniz."
+msgstr "Kredit Kartınızdan təhlükəsiz şəkildə istifadə edə bilərsiniz."
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:181
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:134
 #@ woocommerce
 msgid "This controls the description which the user sees during checkout."
-msgstr "Bu alanda müşterinin Ödeme işlemi sırasında görmesini istediğiniz açıklama bilgisini yazınız."
+msgstr "Bu bölmədə müştərinin Ödəmə əməliyyatı zamanı görməsini istədiyiniz açıqlama məlumatlarını yazın."
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:200
 #@ woocommerce
 msgid "Get started with Mijireh Checkout"
-msgstr "Mijireh ile Ödeme Yöntemi hakkında"
+msgstr "Mijireh ilə Ödəmə Üsulu haqqında"
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:201
 #@ woocommerce
@@ -2754,12 +2754,12 @@ msgstr ""
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:203
 #@ woocommerce
 msgid "Join for free"
-msgstr "Ücretsiz, katılın"
+msgstr "Pulsuz qoşulun"
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:203
 #@ woocommerce
 msgid "Learn more about WooCommerce and Mijireh"
-msgstr "WooCommerce ve Mijireh hakkında daha fazla bilgi alın"
+msgstr "WooCommerce və Mijireh haqqında daha ətraflı məlumat əldə edin"
 
 #: classes/gateways/mijireh/class-wc-gateway-mijireh.php:207
 #@ woocommerce
@@ -2775,87 +2775,87 @@ msgstr "PayPal"
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:90
 #@ woocommerce
 msgid "PayPal standard"
-msgstr "PayPal standard"
+msgstr "PayPal standart"
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:91
 #@ woocommerce
 msgid "PayPal standard works by sending the user to PayPal to enter their payment information."
-msgstr "PayPal Standart Ödeme Sistemi, ödeme bilgilerini girmek ve ödemeyi tamamlamak için müşteriyi PayPal sayfasına yönlendirir."
+msgstr "PayPal Standart Ödəmə Sistemi, ödəmə məlumatlarını daxil etmək və ödəməni tamamlamaq üçün müştərini PayPal səhifəsinə yönləndirir."
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:103
 #@ woocommerce
 msgid "Gateway Disabled"
-msgstr "Ödeme Yöntemi devre dışı"
+msgstr "Ödəmə Üsulu aktiv deyil"
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:103
 #@ woocommerce
 msgid "PayPal does not support your store currency."
-msgstr "PayPal, mağazanıza seçtiğiniz Para Birimi'ni desteklemiyor."
+msgstr "PayPal, mağazanıza seçtiyiniz Pul Vahidini dəstəkləmir."
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:121
 #@ woocommerce
 msgid "Enable PayPal standard"
-msgstr "PayPal Standart etkinleştir."
+msgstr "PayPal Standart aktiv et."
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:135
 #@ woocommerce
 msgid "Pay via PayPal; you can pay with your credit card if you don't have a PayPal account"
-msgstr "PayPal aracılığıyla Ödeme, PayPal hesabınız yoksa bile Kredi Kartı ile ödeme yapabilirsiniz."
+msgstr "PayPal vasitəsilə Ödəmə, PayPal hesabınız olmasa da Kredit Kartı ilə ödəmə edə bilərsiniz."
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:138
 #@ woocommerce
 msgid "PayPal Email"
-msgstr "PayPal E-posta Adresiniz"
+msgstr "PayPal Email Ünvanınız"
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:140
 #@ woocommerce
 msgid "Please enter your PayPal email address; this is needed in order to take payment."
-msgstr "Lütfen PayPal'a kayıt olduğunuz e-posta adresinizi girin. Ödemeyi alabilmeniz için gerekli bir alandır."
+msgstr "Xahiş edirik PayPal'da qeydiyyatdan keçdiyiniz email ünvanınızı daxil edin. Ödəməni ala bilməyiniz üçün lazımlı bir bölmədir."
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:146
 #@ woocommerce
 msgid "Invoice Prefix"
-msgstr "Fatura Ön-eki"
+msgstr "Faktura Prefiksi"
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:153
 #@ woocommerce
 msgid "Submission method"
-msgstr "Gönderme Yöntemi"
+msgstr "Göndərmə Üsulu"
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:155
 #@ woocommerce
 msgid "Use form submission method."
-msgstr "Form Gönderme Yöntemini Kullan."
+msgstr "Form Göndərmə Üsulundan İstifadə Et."
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:156
 #@ woocommerce
 msgid "Enable this to post order data to PayPal via a form instead of using a redirect/querystring."
-msgstr "Paypal-e Sipariş Bilgilerini, yönlendirme veya sorgu ifadeleri yerine, bir Form aracılığı ile göndermek için bu seçeneği etkinleştirin."
+msgstr "Paypal-a Sifariş Məlumatlarınızı, yönləndirme və ya sorğu ifadələri yerinə, bir Form vasitəsilə göndərmək üçün bu seçimi aktiv et."
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:160
 #@ woocommerce
 msgid "Page Style"
-msgstr "Sayfa Stili"
+msgstr "Səhifə Stili"
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:162
 #@ woocommerce
 msgid "Optionally enter the name of the page style you wish to use. These are defined within your PayPal account."
-msgstr "Kullanmak istediğiniz Sayfa Stilinizi belirleyebilirsiniz. Bunlar PayPal hesabınızda tanımlanmıştır."
+msgstr "İstifadə etmək istədiyiniz Səhifə Stilinizi müəyyən edin. Bunlar PayPal hesabınızda göstərilmişdir."
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:168
 #@ woocommerce
 msgid "Shipping options"
-msgstr "Kargo Seçenekleri"
+msgstr "Göndərilmə Seçimləri"
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:173
 #@ woocommerce
 msgid "Shipping details"
-msgstr "Kargo Detayları"
+msgstr "Göndərilmə Detalları"
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:175
 #@ woocommerce
 msgid "Send shipping details to PayPal instead of billing."
-msgstr "PayPal-e Fatura Adresini değil Kargo Adresini gönder."
+msgstr "PayPal-a Faktura Ünvanını deyil Göndərilmə Ünvanını göndər."
 
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:177
 #@ woocommerce
